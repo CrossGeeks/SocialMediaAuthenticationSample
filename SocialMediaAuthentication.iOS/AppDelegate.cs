@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using Plugin.FacebookClient;
+using SocialMediaAuthentication.iOS.Services;
 using UIKit;
 
 namespace SocialMediaAuthentication.iOS
@@ -17,7 +18,7 @@ namespace SocialMediaAuthentication.iOS
         public override bool FinishedLaunching(UIApplication app, NSDictionary options)
         {
             global::Xamarin.Forms.Forms.Init();
-            LoadApplication(new App());
+            LoadApplication(new App(new OAuth2Service()));
             FacebookClientManager.Initialize(app, options);
 
             return base.FinishedLaunching(app, options);

@@ -10,6 +10,8 @@ using Plugin.FacebookClient;
 using Android.Content;
 using Java.Security;
 using System.Buffers.Text;
+using Acr.UserDialogs;
+using SocialMediaAuthentication.Droid.Services;
 
 namespace SocialMediaAuthentication.Droid
 {
@@ -23,11 +25,13 @@ namespace SocialMediaAuthentication.Droid
 
             base.OnCreate(savedInstanceState);
 
+           
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
 
             FacebookClientManager.Initialize(this);
-            LoadApplication(new App());
+            UserDialogs.Init(() => this);
+            LoadApplication(new App(new OAuth2Service()));
             #if DEBUG
                         PrintHashKey(this);
             #endif

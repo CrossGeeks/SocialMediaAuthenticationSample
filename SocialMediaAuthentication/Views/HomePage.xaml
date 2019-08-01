@@ -1,10 +1,31 @@
 ﻿<?xml version="1.0" encoding="UTF-8"?>
 <ContentPage xmlns="http://xamarin.com/schemas/2014/forms" 
              xmlns:x="http://schemas.microsoft.com/winfx/2009/xaml" 
-             x:Class="SocialMediaAuthentication.Views.HomePage">
+             x:Class="SocialMediaAuthentication.Views.HomePage" 
+             xmlns:ios="clr-namespace:Xamarin.Forms.PlatformConfiguration.iOSSpecific;assembly=Xamarin.Forms.Core" 
+             ios:Page.UseSafeArea="true"
+             Title="Welcome">
     <ContentPage.Content>
-        <Label Text="Welcome to my App"
-               HorizontalOptions="CenterAndExpand"
-               VerticalOptions="CenterAndExpand"/>
+        <Grid BackgroundColor="{Binding Background}">
+            <Grid.RowDefinitions>
+                <RowDefinition Height="Auto"/>
+                 <RowDefinition Height="Auto"/>
+                 <RowDefinition Height="Auto"/>
+                  <RowDefinition Height="Auto"/>
+                   <RowDefinition Height="Auto"/>
+            </Grid.RowDefinitions>
+           <Image Grid.Row="0" HorizontalOptions="CenterAndExpand" 
+                           WidthRequest="45" HeightRequest="45"
+                           Margin="24"
+                           Source="{Binding Logo}"/>
+           <Image Grid.Row="1" HorizontalOptions="CenterAndExpand" 
+                           WidthRequest="120" HeightRequest="120"
+                           Margin="24"
+                           Source="{Binding Picture}"/>
+             <Label Grid.Row="2" TextColor="White" Text="{Binding Id}" HorizontalOptions="CenterAndExpand" />
+             <Label Grid.Row="3" TextColor="White" Text="{Binding Name}" HorizontalOptions="CenterAndExpand" />
+             <Button Grid.Row="4" FontAttributes="Bold" VerticalOptions="EndAndExpand" Text="Logout" TextColor="White" Clicked="OnLogout" HorizontalOptions="CenterAndExpand" />
+        </Grid>
+       
     </ContentPage.Content>
 </ContentPage>

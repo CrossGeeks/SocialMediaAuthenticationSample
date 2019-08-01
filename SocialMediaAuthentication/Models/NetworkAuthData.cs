@@ -4,16 +4,14 @@ namespace SocialMediaAuthentication.Models
 {
     public class NetworkAuthData
     {
-        [JsonProperty("email")]
-        public string Email { get; set; }
+        public string Id { get; set; }
 
-        [JsonProperty("name")]
         public string Name { get; set; }
 
-        [JsonProperty("pin")]
-        public string Pin { get; set; } = string.Empty;
+        public string Logo { get; set; }
 
-        [JsonProperty("Id")]
-        public string Id { get; set; }
+        public string Picture { get; set; }
+
+        public string Background { get; set; }
     }
 }
