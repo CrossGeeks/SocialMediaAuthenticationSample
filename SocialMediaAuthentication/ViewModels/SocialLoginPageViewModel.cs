@@ -20,8 +20,8 @@ namespace SocialMediaAuthentication.ViewModels
         const string InstagramApiUrl = "https://api.instagram.com";
         const string InstagramScope = "basic";
         const string InstagramAuthorizationUrl = "https://api.instagram.com/oauth/authorize/";
-        const string InstagramRedirectUrl = "https://xamboy.com";
-        const string InstagramClientId = "891f7b7b88224c7294a150452cc51314";
+        const string InstagramRedirectUrl = "https://xamboy.com/default.html";
+        const string InstagramClientId = "77567512de424a528ba61715d389a644";
 
         public ICommand OnLoginCommand { get; set; }
 
@@ -120,7 +120,7 @@ namespace SocialMediaAuthentication.ViewModels
                 _oAuth2Service.OnCancel -= onCancelDelegate;
                 _oAuth2Service.OnError -= onErrorDelegate;
             };
-
+           
             _oAuth2Service.OnSuccess += onSuccessDelegate;
             _oAuth2Service.OnCancel += onCancelDelegate;
             _oAuth2Service.OnError += onErrorDelegate;

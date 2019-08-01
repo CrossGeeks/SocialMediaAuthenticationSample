@@ -1,5 +1,6 @@
 ﻿using System;
 using Plugin.CurrentActivity;
+using SocialMediaAuthentication.Services;
 using Xamarin.Auth;
 
 namespace SocialMediaAuthentication.Droid.Services
@@ -31,7 +32,7 @@ namespace SocialMediaAuthentication.Droid.Services
         }
     }
 
-    public class OAuth2Service
+    public class OAuth2Service: IOAuth2Service
     {
         public event EventHandler<string> OnSuccess = delegate { };
         public event EventHandler OnCancel = delegate { };
