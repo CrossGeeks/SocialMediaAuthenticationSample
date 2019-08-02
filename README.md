@@ -13,4 +13,4 @@ Blog post: [Facebook](http://www.xamboy.com/2019/07/23/social-media-authenticati
 <img  width="400" src="Screenshots/Instagram.png"/>
 </p>
 
-Blog post: [Instagram](http://www.xamboy.com/2019/07/23/social-media-authentication-instagram-login-in-xamarin-forms/)
+Blog post: [Instagram](http://www.xamboy.com/2019/08/02/social-media-authentication-instagram-login-in-xamarin-forms/)
