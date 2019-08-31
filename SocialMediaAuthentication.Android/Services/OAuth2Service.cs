@@ -32,7 +32,7 @@ namespace SocialMediaAuthentication.Droid.Services
         }
     }
 
-    public class OAuth2Service : IOAuth2Service
+    public class OAuth2Service: IOAuth2Service
     {
         public event EventHandler<string> OnSuccess = delegate { };
         public event EventHandler OnCancel = delegate { };
