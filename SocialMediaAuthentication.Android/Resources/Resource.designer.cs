@@ -63,6 +63,1736 @@ namespace SocialMediaAuthentication.Droid
 			global::AndroidHUD.Resource.Styleable.ProgressWheel_ahText = global::SocialMediaAuthentication.Droid.Resource.Styleable.ProgressWheel_ahText;
 			global::AndroidHUD.Resource.Styleable.ProgressWheel_ahTextColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.ProgressWheel_ahTextColor;
 			global::AndroidHUD.Resource.Styleable.ProgressWheel_ahTextSize = global::SocialMediaAuthentication.Droid.Resource.Styleable.ProgressWheel_ahTextSize;
+			global::Plugin.FacebookClient.Resource.Animation.abc_fade_in = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_fade_in;
+			global::Plugin.FacebookClient.Resource.Animation.abc_fade_out = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_fade_out;
+			global::Plugin.FacebookClient.Resource.Animation.abc_grow_fade_in_from_bottom = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_grow_fade_in_from_bottom;
+			global::Plugin.FacebookClient.Resource.Animation.abc_popup_enter = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_popup_enter;
+			global::Plugin.FacebookClient.Resource.Animation.abc_popup_exit = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_popup_exit;
+			global::Plugin.FacebookClient.Resource.Animation.abc_shrink_fade_out_from_bottom = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_shrink_fade_out_from_bottom;
+			global::Plugin.FacebookClient.Resource.Animation.abc_slide_in_bottom = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_slide_in_bottom;
+			global::Plugin.FacebookClient.Resource.Animation.abc_slide_in_top = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_slide_in_top;
+			global::Plugin.FacebookClient.Resource.Animation.abc_slide_out_bottom = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_slide_out_bottom;
+			global::Plugin.FacebookClient.Resource.Animation.abc_slide_out_top = global::SocialMediaAuthentication.Droid.Resource.Animation.abc_slide_out_top;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarDivider = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarDivider;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarItemBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarItemBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarPopupTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarPopupTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarSize = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarSize;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarSplitStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarSplitStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarTabBarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarTabBarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarTabStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarTabStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarTabTextStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarTabTextStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.actionBarWidgetTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionBarWidgetTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.actionButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionDropDownStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionDropDownStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.actionMenuTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionMenuTextAppearance;
+			global::Plugin.FacebookClient.Resource.Attribute.actionMenuTextColor = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionMenuTextColor;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeCloseButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeCloseButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeCloseDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeCloseDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeCopyDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeCopyDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeCutDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeCutDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeFindDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeFindDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModePasteDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModePasteDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModePopupWindowStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModePopupWindowStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeSelectAllDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeSelectAllDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeShareDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeShareDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeSplitBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeSplitBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionModeWebSearchDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionModeWebSearchDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.actionOverflowButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionOverflowButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionOverflowMenuStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionOverflowMenuStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.actionProviderClass = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionProviderClass;
+			global::Plugin.FacebookClient.Resource.Attribute.actionViewClass = global::SocialMediaAuthentication.Droid.Resource.Attribute.actionViewClass;
+			global::Plugin.FacebookClient.Resource.Attribute.activityChooserViewStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.activityChooserViewStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.alertDialogButtonGroupStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.alertDialogButtonGroupStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.alertDialogCenterButtons = global::SocialMediaAuthentication.Droid.Resource.Attribute.alertDialogCenterButtons;
+			global::Plugin.FacebookClient.Resource.Attribute.alertDialogStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.alertDialogStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.alertDialogTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.alertDialogTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.allowStacking = global::SocialMediaAuthentication.Droid.Resource.Attribute.allowStacking;
+			global::Plugin.FacebookClient.Resource.Attribute.alpha = global::SocialMediaAuthentication.Droid.Resource.Attribute.alpha;
+			global::Plugin.FacebookClient.Resource.Attribute.alphabeticModifiers = global::SocialMediaAuthentication.Droid.Resource.Attribute.alphabeticModifiers;
+			global::Plugin.FacebookClient.Resource.Attribute.arrowHeadLength = global::SocialMediaAuthentication.Droid.Resource.Attribute.arrowHeadLength;
+			global::Plugin.FacebookClient.Resource.Attribute.arrowShaftLength = global::SocialMediaAuthentication.Droid.Resource.Attribute.arrowShaftLength;
+			global::Plugin.FacebookClient.Resource.Attribute.autoCompleteTextViewStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.autoCompleteTextViewStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.autoSizeMaxTextSize = global::SocialMediaAuthentication.Droid.Resource.Attribute.autoSizeMaxTextSize;
+			global::Plugin.FacebookClient.Resource.Attribute.autoSizeMinTextSize = global::SocialMediaAuthentication.Droid.Resource.Attribute.autoSizeMinTextSize;
+			global::Plugin.FacebookClient.Resource.Attribute.autoSizePresetSizes = global::SocialMediaAuthentication.Droid.Resource.Attribute.autoSizePresetSizes;
+			global::Plugin.FacebookClient.Resource.Attribute.autoSizeStepGranularity = global::SocialMediaAuthentication.Droid.Resource.Attribute.autoSizeStepGranularity;
+			global::Plugin.FacebookClient.Resource.Attribute.autoSizeTextType = global::SocialMediaAuthentication.Droid.Resource.Attribute.autoSizeTextType;
+			global::Plugin.FacebookClient.Resource.Attribute.background = global::SocialMediaAuthentication.Droid.Resource.Attribute.background;
+			global::Plugin.FacebookClient.Resource.Attribute.backgroundSplit = global::SocialMediaAuthentication.Droid.Resource.Attribute.backgroundSplit;
+			global::Plugin.FacebookClient.Resource.Attribute.backgroundStacked = global::SocialMediaAuthentication.Droid.Resource.Attribute.backgroundStacked;
+			global::Plugin.FacebookClient.Resource.Attribute.backgroundTint = global::SocialMediaAuthentication.Droid.Resource.Attribute.backgroundTint;
+			global::Plugin.FacebookClient.Resource.Attribute.backgroundTintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.backgroundTintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.barLength = global::SocialMediaAuthentication.Droid.Resource.Attribute.barLength;
+			global::Plugin.FacebookClient.Resource.Attribute.borderlessButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.borderlessButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonBarButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonBarButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonBarNegativeButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonBarNegativeButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonBarNeutralButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonBarNeutralButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonBarPositiveButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonBarPositiveButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonBarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonBarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonGravity = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonGravity;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonPanelSideLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonPanelSideLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonStyleSmall = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonStyleSmall;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonTint = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonTint;
+			global::Plugin.FacebookClient.Resource.Attribute.buttonTintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.buttonTintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.cardBackgroundColor = global::SocialMediaAuthentication.Droid.Resource.Attribute.cardBackgroundColor;
+			global::Plugin.FacebookClient.Resource.Attribute.cardCornerRadius = global::SocialMediaAuthentication.Droid.Resource.Attribute.cardCornerRadius;
+			global::Plugin.FacebookClient.Resource.Attribute.cardElevation = global::SocialMediaAuthentication.Droid.Resource.Attribute.cardElevation;
+			global::Plugin.FacebookClient.Resource.Attribute.cardMaxElevation = global::SocialMediaAuthentication.Droid.Resource.Attribute.cardMaxElevation;
+			global::Plugin.FacebookClient.Resource.Attribute.cardPreventCornerOverlap = global::SocialMediaAuthentication.Droid.Resource.Attribute.cardPreventCornerOverlap;
+			global::Plugin.FacebookClient.Resource.Attribute.cardUseCompatPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.cardUseCompatPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.checkboxStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.checkboxStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.checkedTextViewStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.checkedTextViewStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.closeIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.closeIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.closeItemLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.closeItemLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.collapseContentDescription = global::SocialMediaAuthentication.Droid.Resource.Attribute.collapseContentDescription;
+			global::Plugin.FacebookClient.Resource.Attribute.collapseIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.collapseIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.color = global::SocialMediaAuthentication.Droid.Resource.Attribute.color;
+			global::Plugin.FacebookClient.Resource.Attribute.colorAccent = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorAccent;
+			global::Plugin.FacebookClient.Resource.Attribute.colorBackgroundFloating = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorBackgroundFloating;
+			global::Plugin.FacebookClient.Resource.Attribute.colorButtonNormal = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorButtonNormal;
+			global::Plugin.FacebookClient.Resource.Attribute.colorControlActivated = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorControlActivated;
+			global::Plugin.FacebookClient.Resource.Attribute.colorControlHighlight = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorControlHighlight;
+			global::Plugin.FacebookClient.Resource.Attribute.colorControlNormal = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorControlNormal;
+			global::Plugin.FacebookClient.Resource.Attribute.colorError = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorError;
+			global::Plugin.FacebookClient.Resource.Attribute.colorPrimary = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorPrimary;
+			global::Plugin.FacebookClient.Resource.Attribute.colorPrimaryDark = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorPrimaryDark;
+			global::Plugin.FacebookClient.Resource.Attribute.colorSwitchThumbNormal = global::SocialMediaAuthentication.Droid.Resource.Attribute.colorSwitchThumbNormal;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_auxiliary_view_position = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_auxiliary_view_position;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_confirm_logout = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_confirm_logout;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_foreground_color = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_foreground_color;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_horizontal_alignment = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_horizontal_alignment;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_is_cropped = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_is_cropped;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_login_text = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_login_text;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_logout_text = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_logout_text;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_object_id = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_object_id;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_object_type = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_object_type;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_preset_size = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_preset_size;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_style = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_style;
+			global::Plugin.FacebookClient.Resource.Attribute.com_facebook_tooltip_mode = global::SocialMediaAuthentication.Droid.Resource.Attribute.com_facebook_tooltip_mode;
+			global::Plugin.FacebookClient.Resource.Attribute.commitIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.commitIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.contentDescription = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentDescription;
+			global::Plugin.FacebookClient.Resource.Attribute.contentInsetEnd = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentInsetEnd;
+			global::Plugin.FacebookClient.Resource.Attribute.contentInsetEndWithActions = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentInsetEndWithActions;
+			global::Plugin.FacebookClient.Resource.Attribute.contentInsetLeft = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentInsetLeft;
+			global::Plugin.FacebookClient.Resource.Attribute.contentInsetRight = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentInsetRight;
+			global::Plugin.FacebookClient.Resource.Attribute.contentInsetStart = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentInsetStart;
+			global::Plugin.FacebookClient.Resource.Attribute.contentInsetStartWithNavigation = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentInsetStartWithNavigation;
+			global::Plugin.FacebookClient.Resource.Attribute.contentPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.contentPaddingBottom = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentPaddingBottom;
+			global::Plugin.FacebookClient.Resource.Attribute.contentPaddingLeft = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentPaddingLeft;
+			global::Plugin.FacebookClient.Resource.Attribute.contentPaddingRight = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentPaddingRight;
+			global::Plugin.FacebookClient.Resource.Attribute.contentPaddingTop = global::SocialMediaAuthentication.Droid.Resource.Attribute.contentPaddingTop;
+			global::Plugin.FacebookClient.Resource.Attribute.controlBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.controlBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.customNavigationLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.customNavigationLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.defaultQueryHint = global::SocialMediaAuthentication.Droid.Resource.Attribute.defaultQueryHint;
+			global::Plugin.FacebookClient.Resource.Attribute.dialogPreferredPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.dialogPreferredPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.dialogTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.dialogTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.displayOptions = global::SocialMediaAuthentication.Droid.Resource.Attribute.displayOptions;
+			global::Plugin.FacebookClient.Resource.Attribute.divider = global::SocialMediaAuthentication.Droid.Resource.Attribute.divider;
+			global::Plugin.FacebookClient.Resource.Attribute.dividerHorizontal = global::SocialMediaAuthentication.Droid.Resource.Attribute.dividerHorizontal;
+			global::Plugin.FacebookClient.Resource.Attribute.dividerPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.dividerPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.dividerVertical = global::SocialMediaAuthentication.Droid.Resource.Attribute.dividerVertical;
+			global::Plugin.FacebookClient.Resource.Attribute.drawableSize = global::SocialMediaAuthentication.Droid.Resource.Attribute.drawableSize;
+			global::Plugin.FacebookClient.Resource.Attribute.drawerArrowStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.drawerArrowStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.dropDownListViewStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.dropDownListViewStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.dropdownListPreferredItemHeight = global::SocialMediaAuthentication.Droid.Resource.Attribute.dropdownListPreferredItemHeight;
+			global::Plugin.FacebookClient.Resource.Attribute.editTextBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.editTextBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.editTextColor = global::SocialMediaAuthentication.Droid.Resource.Attribute.editTextColor;
+			global::Plugin.FacebookClient.Resource.Attribute.editTextStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.editTextStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.elevation = global::SocialMediaAuthentication.Droid.Resource.Attribute.elevation;
+			global::Plugin.FacebookClient.Resource.Attribute.expandActivityOverflowButtonDrawable = global::SocialMediaAuthentication.Droid.Resource.Attribute.expandActivityOverflowButtonDrawable;
+			global::Plugin.FacebookClient.Resource.Attribute.font = global::SocialMediaAuthentication.Droid.Resource.Attribute.font;
+			global::Plugin.FacebookClient.Resource.Attribute.fontFamily = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontFamily;
+			global::Plugin.FacebookClient.Resource.Attribute.fontProviderAuthority = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontProviderAuthority;
+			global::Plugin.FacebookClient.Resource.Attribute.fontProviderCerts = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontProviderCerts;
+			global::Plugin.FacebookClient.Resource.Attribute.fontProviderFetchStrategy = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontProviderFetchStrategy;
+			global::Plugin.FacebookClient.Resource.Attribute.fontProviderFetchTimeout = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontProviderFetchTimeout;
+			global::Plugin.FacebookClient.Resource.Attribute.fontProviderPackage = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontProviderPackage;
+			global::Plugin.FacebookClient.Resource.Attribute.fontProviderQuery = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontProviderQuery;
+			global::Plugin.FacebookClient.Resource.Attribute.fontStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.fontWeight = global::SocialMediaAuthentication.Droid.Resource.Attribute.fontWeight;
+			global::Plugin.FacebookClient.Resource.Attribute.gapBetweenBars = global::SocialMediaAuthentication.Droid.Resource.Attribute.gapBetweenBars;
+			global::Plugin.FacebookClient.Resource.Attribute.goIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.goIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.height = global::SocialMediaAuthentication.Droid.Resource.Attribute.height;
+			global::Plugin.FacebookClient.Resource.Attribute.hideOnContentScroll = global::SocialMediaAuthentication.Droid.Resource.Attribute.hideOnContentScroll;
+			global::Plugin.FacebookClient.Resource.Attribute.homeAsUpIndicator = global::SocialMediaAuthentication.Droid.Resource.Attribute.homeAsUpIndicator;
+			global::Plugin.FacebookClient.Resource.Attribute.homeLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.homeLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.icon = global::SocialMediaAuthentication.Droid.Resource.Attribute.icon;
+			global::Plugin.FacebookClient.Resource.Attribute.iconTint = global::SocialMediaAuthentication.Droid.Resource.Attribute.iconTint;
+			global::Plugin.FacebookClient.Resource.Attribute.iconTintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.iconTintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.iconifiedByDefault = global::SocialMediaAuthentication.Droid.Resource.Attribute.iconifiedByDefault;
+			global::Plugin.FacebookClient.Resource.Attribute.imageButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.imageButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.indeterminateProgressStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.indeterminateProgressStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.initialActivityCount = global::SocialMediaAuthentication.Droid.Resource.Attribute.initialActivityCount;
+			global::Plugin.FacebookClient.Resource.Attribute.isLightTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.isLightTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.itemPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.itemPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.layout = global::SocialMediaAuthentication.Droid.Resource.Attribute.layout;
+			global::Plugin.FacebookClient.Resource.Attribute.listChoiceBackgroundIndicator = global::SocialMediaAuthentication.Droid.Resource.Attribute.listChoiceBackgroundIndicator;
+			global::Plugin.FacebookClient.Resource.Attribute.listDividerAlertDialog = global::SocialMediaAuthentication.Droid.Resource.Attribute.listDividerAlertDialog;
+			global::Plugin.FacebookClient.Resource.Attribute.listItemLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.listItemLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.listLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.listLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.listMenuViewStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.listMenuViewStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.listPopupWindowStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.listPopupWindowStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.listPreferredItemHeight = global::SocialMediaAuthentication.Droid.Resource.Attribute.listPreferredItemHeight;
+			global::Plugin.FacebookClient.Resource.Attribute.listPreferredItemHeightLarge = global::SocialMediaAuthentication.Droid.Resource.Attribute.listPreferredItemHeightLarge;
+			global::Plugin.FacebookClient.Resource.Attribute.listPreferredItemHeightSmall = global::SocialMediaAuthentication.Droid.Resource.Attribute.listPreferredItemHeightSmall;
+			global::Plugin.FacebookClient.Resource.Attribute.listPreferredItemPaddingLeft = global::SocialMediaAuthentication.Droid.Resource.Attribute.listPreferredItemPaddingLeft;
+			global::Plugin.FacebookClient.Resource.Attribute.listPreferredItemPaddingRight = global::SocialMediaAuthentication.Droid.Resource.Attribute.listPreferredItemPaddingRight;
+			global::Plugin.FacebookClient.Resource.Attribute.logo = global::SocialMediaAuthentication.Droid.Resource.Attribute.logo;
+			global::Plugin.FacebookClient.Resource.Attribute.logoDescription = global::SocialMediaAuthentication.Droid.Resource.Attribute.logoDescription;
+			global::Plugin.FacebookClient.Resource.Attribute.maxButtonHeight = global::SocialMediaAuthentication.Droid.Resource.Attribute.maxButtonHeight;
+			global::Plugin.FacebookClient.Resource.Attribute.measureWithLargestChild = global::SocialMediaAuthentication.Droid.Resource.Attribute.measureWithLargestChild;
+			global::Plugin.FacebookClient.Resource.Attribute.multiChoiceItemLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.multiChoiceItemLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.navigationContentDescription = global::SocialMediaAuthentication.Droid.Resource.Attribute.navigationContentDescription;
+			global::Plugin.FacebookClient.Resource.Attribute.navigationIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.navigationIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.navigationMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.navigationMode;
+			global::Plugin.FacebookClient.Resource.Attribute.numericModifiers = global::SocialMediaAuthentication.Droid.Resource.Attribute.numericModifiers;
+			global::Plugin.FacebookClient.Resource.Attribute.overlapAnchor = global::SocialMediaAuthentication.Droid.Resource.Attribute.overlapAnchor;
+			global::Plugin.FacebookClient.Resource.Attribute.paddingBottomNoButtons = global::SocialMediaAuthentication.Droid.Resource.Attribute.paddingBottomNoButtons;
+			global::Plugin.FacebookClient.Resource.Attribute.paddingEnd = global::SocialMediaAuthentication.Droid.Resource.Attribute.paddingEnd;
+			global::Plugin.FacebookClient.Resource.Attribute.paddingStart = global::SocialMediaAuthentication.Droid.Resource.Attribute.paddingStart;
+			global::Plugin.FacebookClient.Resource.Attribute.paddingTopNoTitle = global::SocialMediaAuthentication.Droid.Resource.Attribute.paddingTopNoTitle;
+			global::Plugin.FacebookClient.Resource.Attribute.panelBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.panelBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.panelMenuListTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.panelMenuListTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.panelMenuListWidth = global::SocialMediaAuthentication.Droid.Resource.Attribute.panelMenuListWidth;
+			global::Plugin.FacebookClient.Resource.Attribute.popupMenuStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.popupMenuStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.popupTheme = global::SocialMediaAuthentication.Droid.Resource.Attribute.popupTheme;
+			global::Plugin.FacebookClient.Resource.Attribute.popupWindowStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.popupWindowStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.preserveIconSpacing = global::SocialMediaAuthentication.Droid.Resource.Attribute.preserveIconSpacing;
+			global::Plugin.FacebookClient.Resource.Attribute.progressBarPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.progressBarPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.progressBarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.progressBarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.queryBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.queryBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.queryHint = global::SocialMediaAuthentication.Droid.Resource.Attribute.queryHint;
+			global::Plugin.FacebookClient.Resource.Attribute.radioButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.radioButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.ratingBarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.ratingBarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.ratingBarStyleIndicator = global::SocialMediaAuthentication.Droid.Resource.Attribute.ratingBarStyleIndicator;
+			global::Plugin.FacebookClient.Resource.Attribute.ratingBarStyleSmall = global::SocialMediaAuthentication.Droid.Resource.Attribute.ratingBarStyleSmall;
+			global::Plugin.FacebookClient.Resource.Attribute.searchHintIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.searchHintIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.searchIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.searchIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.searchViewStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.searchViewStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.seekBarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.seekBarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.selectableItemBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.selectableItemBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.selectableItemBackgroundBorderless = global::SocialMediaAuthentication.Droid.Resource.Attribute.selectableItemBackgroundBorderless;
+			global::Plugin.FacebookClient.Resource.Attribute.showAsAction = global::SocialMediaAuthentication.Droid.Resource.Attribute.showAsAction;
+			global::Plugin.FacebookClient.Resource.Attribute.showDividers = global::SocialMediaAuthentication.Droid.Resource.Attribute.showDividers;
+			global::Plugin.FacebookClient.Resource.Attribute.showText = global::SocialMediaAuthentication.Droid.Resource.Attribute.showText;
+			global::Plugin.FacebookClient.Resource.Attribute.showTitle = global::SocialMediaAuthentication.Droid.Resource.Attribute.showTitle;
+			global::Plugin.FacebookClient.Resource.Attribute.singleChoiceItemLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.singleChoiceItemLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.spinBars = global::SocialMediaAuthentication.Droid.Resource.Attribute.spinBars;
+			global::Plugin.FacebookClient.Resource.Attribute.spinnerDropDownItemStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.spinnerDropDownItemStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.spinnerStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.spinnerStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.splitTrack = global::SocialMediaAuthentication.Droid.Resource.Attribute.splitTrack;
+			global::Plugin.FacebookClient.Resource.Attribute.srcCompat = global::SocialMediaAuthentication.Droid.Resource.Attribute.srcCompat;
+			global::Plugin.FacebookClient.Resource.Attribute.state_above_anchor = global::SocialMediaAuthentication.Droid.Resource.Attribute.state_above_anchor;
+			global::Plugin.FacebookClient.Resource.Attribute.subMenuArrow = global::SocialMediaAuthentication.Droid.Resource.Attribute.subMenuArrow;
+			global::Plugin.FacebookClient.Resource.Attribute.submitBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.submitBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.subtitle = global::SocialMediaAuthentication.Droid.Resource.Attribute.subtitle;
+			global::Plugin.FacebookClient.Resource.Attribute.subtitleTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Attribute.subtitleTextAppearance;
+			global::Plugin.FacebookClient.Resource.Attribute.subtitleTextColor = global::SocialMediaAuthentication.Droid.Resource.Attribute.subtitleTextColor;
+			global::Plugin.FacebookClient.Resource.Attribute.subtitleTextStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.subtitleTextStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.suggestionRowLayout = global::SocialMediaAuthentication.Droid.Resource.Attribute.suggestionRowLayout;
+			global::Plugin.FacebookClient.Resource.Attribute.switchMinWidth = global::SocialMediaAuthentication.Droid.Resource.Attribute.switchMinWidth;
+			global::Plugin.FacebookClient.Resource.Attribute.switchPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.switchPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.switchStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.switchStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.switchTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Attribute.switchTextAppearance;
+			global::Plugin.FacebookClient.Resource.Attribute.textAllCaps = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAllCaps;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceLargePopupMenu = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceLargePopupMenu;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceListItem = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceListItem;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceListItemSecondary = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceListItemSecondary;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceListItemSmall = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceListItemSmall;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearancePopupMenuHeader = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearancePopupMenuHeader;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceSearchResultSubtitle = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceSearchResultSubtitle;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceSearchResultTitle = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceSearchResultTitle;
+			global::Plugin.FacebookClient.Resource.Attribute.textAppearanceSmallPopupMenu = global::SocialMediaAuthentication.Droid.Resource.Attribute.textAppearanceSmallPopupMenu;
+			global::Plugin.FacebookClient.Resource.Attribute.textColorAlertDialogListItem = global::SocialMediaAuthentication.Droid.Resource.Attribute.textColorAlertDialogListItem;
+			global::Plugin.FacebookClient.Resource.Attribute.textColorSearchUrl = global::SocialMediaAuthentication.Droid.Resource.Attribute.textColorSearchUrl;
+			global::Plugin.FacebookClient.Resource.Attribute.theme = global::SocialMediaAuthentication.Droid.Resource.Attribute.theme;
+			global::Plugin.FacebookClient.Resource.Attribute.thickness = global::SocialMediaAuthentication.Droid.Resource.Attribute.thickness;
+			global::Plugin.FacebookClient.Resource.Attribute.thumbTextPadding = global::SocialMediaAuthentication.Droid.Resource.Attribute.thumbTextPadding;
+			global::Plugin.FacebookClient.Resource.Attribute.thumbTint = global::SocialMediaAuthentication.Droid.Resource.Attribute.thumbTint;
+			global::Plugin.FacebookClient.Resource.Attribute.thumbTintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.thumbTintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.tickMark = global::SocialMediaAuthentication.Droid.Resource.Attribute.tickMark;
+			global::Plugin.FacebookClient.Resource.Attribute.tickMarkTint = global::SocialMediaAuthentication.Droid.Resource.Attribute.tickMarkTint;
+			global::Plugin.FacebookClient.Resource.Attribute.tickMarkTintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.tickMarkTintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.tint = global::SocialMediaAuthentication.Droid.Resource.Attribute.tint;
+			global::Plugin.FacebookClient.Resource.Attribute.tintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.tintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.title = global::SocialMediaAuthentication.Droid.Resource.Attribute.title;
+			global::Plugin.FacebookClient.Resource.Attribute.titleMargin = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleMargin;
+			global::Plugin.FacebookClient.Resource.Attribute.titleMarginBottom = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleMarginBottom;
+			global::Plugin.FacebookClient.Resource.Attribute.titleMarginEnd = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleMarginEnd;
+			global::Plugin.FacebookClient.Resource.Attribute.titleMarginStart = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleMarginStart;
+			global::Plugin.FacebookClient.Resource.Attribute.titleMarginTop = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleMarginTop;
+			global::Plugin.FacebookClient.Resource.Attribute.titleMargins = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleMargins;
+			global::Plugin.FacebookClient.Resource.Attribute.titleTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleTextAppearance;
+			global::Plugin.FacebookClient.Resource.Attribute.titleTextColor = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleTextColor;
+			global::Plugin.FacebookClient.Resource.Attribute.titleTextStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.titleTextStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.toolbarNavigationButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.toolbarNavigationButtonStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.toolbarStyle = global::SocialMediaAuthentication.Droid.Resource.Attribute.toolbarStyle;
+			global::Plugin.FacebookClient.Resource.Attribute.tooltipForegroundColor = global::SocialMediaAuthentication.Droid.Resource.Attribute.tooltipForegroundColor;
+			global::Plugin.FacebookClient.Resource.Attribute.tooltipFrameBackground = global::SocialMediaAuthentication.Droid.Resource.Attribute.tooltipFrameBackground;
+			global::Plugin.FacebookClient.Resource.Attribute.tooltipText = global::SocialMediaAuthentication.Droid.Resource.Attribute.tooltipText;
+			global::Plugin.FacebookClient.Resource.Attribute.track = global::SocialMediaAuthentication.Droid.Resource.Attribute.track;
+			global::Plugin.FacebookClient.Resource.Attribute.trackTint = global::SocialMediaAuthentication.Droid.Resource.Attribute.trackTint;
+			global::Plugin.FacebookClient.Resource.Attribute.trackTintMode = global::SocialMediaAuthentication.Droid.Resource.Attribute.trackTintMode;
+			global::Plugin.FacebookClient.Resource.Attribute.voiceIcon = global::SocialMediaAuthentication.Droid.Resource.Attribute.voiceIcon;
+			global::Plugin.FacebookClient.Resource.Attribute.windowActionBar = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowActionBar;
+			global::Plugin.FacebookClient.Resource.Attribute.windowActionBarOverlay = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowActionBarOverlay;
+			global::Plugin.FacebookClient.Resource.Attribute.windowActionModeOverlay = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowActionModeOverlay;
+			global::Plugin.FacebookClient.Resource.Attribute.windowFixedHeightMajor = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowFixedHeightMajor;
+			global::Plugin.FacebookClient.Resource.Attribute.windowFixedHeightMinor = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowFixedHeightMinor;
+			global::Plugin.FacebookClient.Resource.Attribute.windowFixedWidthMajor = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowFixedWidthMajor;
+			global::Plugin.FacebookClient.Resource.Attribute.windowFixedWidthMinor = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowFixedWidthMinor;
+			global::Plugin.FacebookClient.Resource.Attribute.windowMinWidthMajor = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowMinWidthMajor;
+			global::Plugin.FacebookClient.Resource.Attribute.windowMinWidthMinor = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowMinWidthMinor;
+			global::Plugin.FacebookClient.Resource.Attribute.windowNoTitle = global::SocialMediaAuthentication.Droid.Resource.Attribute.windowNoTitle;
+			global::Plugin.FacebookClient.Resource.Boolean.abc_action_bar_embed_tabs = global::SocialMediaAuthentication.Droid.Resource.Boolean.abc_action_bar_embed_tabs;
+			global::Plugin.FacebookClient.Resource.Boolean.abc_allow_stacked_button_bar = global::SocialMediaAuthentication.Droid.Resource.Boolean.abc_allow_stacked_button_bar;
+			global::Plugin.FacebookClient.Resource.Boolean.abc_config_actionMenuItemAllCaps = global::SocialMediaAuthentication.Droid.Resource.Boolean.abc_config_actionMenuItemAllCaps;
+			global::Plugin.FacebookClient.Resource.Color.abc_background_cache_hint_selector_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.abc_background_cache_hint_selector_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.abc_background_cache_hint_selector_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.abc_background_cache_hint_selector_material_light;
+			global::Plugin.FacebookClient.Resource.Color.abc_btn_colored_borderless_text_material = global::SocialMediaAuthentication.Droid.Resource.Color.abc_btn_colored_borderless_text_material;
+			global::Plugin.FacebookClient.Resource.Color.abc_btn_colored_text_material = global::SocialMediaAuthentication.Droid.Resource.Color.abc_btn_colored_text_material;
+			global::Plugin.FacebookClient.Resource.Color.abc_color_highlight_material = global::SocialMediaAuthentication.Droid.Resource.Color.abc_color_highlight_material;
+			global::Plugin.FacebookClient.Resource.Color.abc_hint_foreground_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.abc_hint_foreground_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.abc_hint_foreground_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.abc_hint_foreground_material_light;
+			global::Plugin.FacebookClient.Resource.Color.abc_input_method_navigation_guard = global::SocialMediaAuthentication.Droid.Resource.Color.abc_input_method_navigation_guard;
+			global::Plugin.FacebookClient.Resource.Color.abc_primary_text_disable_only_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.abc_primary_text_disable_only_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.abc_primary_text_disable_only_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.abc_primary_text_disable_only_material_light;
+			global::Plugin.FacebookClient.Resource.Color.abc_primary_text_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.abc_primary_text_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.abc_primary_text_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.abc_primary_text_material_light;
+			global::Plugin.FacebookClient.Resource.Color.abc_search_url_text = global::SocialMediaAuthentication.Droid.Resource.Color.abc_search_url_text;
+			global::Plugin.FacebookClient.Resource.Color.abc_search_url_text_normal = global::SocialMediaAuthentication.Droid.Resource.Color.abc_search_url_text_normal;
+			global::Plugin.FacebookClient.Resource.Color.abc_search_url_text_pressed = global::SocialMediaAuthentication.Droid.Resource.Color.abc_search_url_text_pressed;
+			global::Plugin.FacebookClient.Resource.Color.abc_search_url_text_selected = global::SocialMediaAuthentication.Droid.Resource.Color.abc_search_url_text_selected;
+			global::Plugin.FacebookClient.Resource.Color.abc_secondary_text_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.abc_secondary_text_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.abc_secondary_text_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.abc_secondary_text_material_light;
+			global::Plugin.FacebookClient.Resource.Color.abc_tint_btn_checkable = global::SocialMediaAuthentication.Droid.Resource.Color.abc_tint_btn_checkable;
+			global::Plugin.FacebookClient.Resource.Color.abc_tint_default = global::SocialMediaAuthentication.Droid.Resource.Color.abc_tint_default;
+			global::Plugin.FacebookClient.Resource.Color.abc_tint_edittext = global::SocialMediaAuthentication.Droid.Resource.Color.abc_tint_edittext;
+			global::Plugin.FacebookClient.Resource.Color.abc_tint_seek_thumb = global::SocialMediaAuthentication.Droid.Resource.Color.abc_tint_seek_thumb;
+			global::Plugin.FacebookClient.Resource.Color.abc_tint_spinner = global::SocialMediaAuthentication.Droid.Resource.Color.abc_tint_spinner;
+			global::Plugin.FacebookClient.Resource.Color.abc_tint_switch_track = global::SocialMediaAuthentication.Droid.Resource.Color.abc_tint_switch_track;
+			global::Plugin.FacebookClient.Resource.Color.accent_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.accent_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.accent_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.accent_material_light;
+			global::Plugin.FacebookClient.Resource.Color.background_floating_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.background_floating_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.background_floating_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.background_floating_material_light;
+			global::Plugin.FacebookClient.Resource.Color.background_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.background_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.background_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.background_material_light;
+			global::Plugin.FacebookClient.Resource.Color.bright_foreground_disabled_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.bright_foreground_disabled_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.bright_foreground_disabled_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.bright_foreground_disabled_material_light;
+			global::Plugin.FacebookClient.Resource.Color.bright_foreground_inverse_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.bright_foreground_inverse_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.bright_foreground_inverse_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.bright_foreground_inverse_material_light;
+			global::Plugin.FacebookClient.Resource.Color.bright_foreground_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.bright_foreground_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.bright_foreground_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.bright_foreground_material_light;
+			global::Plugin.FacebookClient.Resource.Color.button_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.button_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.button_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.button_material_light;
+			global::Plugin.FacebookClient.Resource.Color.cardview_dark_background = global::SocialMediaAuthentication.Droid.Resource.Color.cardview_dark_background;
+			global::Plugin.FacebookClient.Resource.Color.cardview_light_background = global::SocialMediaAuthentication.Droid.Resource.Color.cardview_light_background;
+			global::Plugin.FacebookClient.Resource.Color.cardview_shadow_end_color = global::SocialMediaAuthentication.Droid.Resource.Color.cardview_shadow_end_color;
+			global::Plugin.FacebookClient.Resource.Color.cardview_shadow_start_color = global::SocialMediaAuthentication.Droid.Resource.Color.cardview_shadow_start_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_blue = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_blue;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_background_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_background_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_background_color_disabled = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_background_color_disabled;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_background_color_focused = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_background_color_focused;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_background_color_focused_disabled = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_background_color_focused_disabled;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_background_color_pressed = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_background_color_pressed;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_background_color_selected = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_background_color_selected;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_border_color_focused = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_border_color_focused;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_login_background_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_login_background_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_login_silver_background_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_login_silver_background_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_login_silver_background_color_pressed = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_login_silver_background_color_pressed;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_send_background_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_send_background_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_send_background_color_pressed = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_send_background_color_pressed;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_button_text_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_button_text_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_device_auth_text = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_device_auth_text;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_likeboxcountview_border_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_likeboxcountview_border_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_likeboxcountview_text_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_likeboxcountview_text_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_likeview_text_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_likeview_text_color;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_messenger_blue = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_messenger_blue;
+			global::Plugin.FacebookClient.Resource.Color.com_facebook_send_button_text_color = global::SocialMediaAuthentication.Droid.Resource.Color.com_facebook_send_button_text_color;
+			global::Plugin.FacebookClient.Resource.Color.com_smart_login_code = global::SocialMediaAuthentication.Droid.Resource.Color.com_smart_login_code;
+			global::Plugin.FacebookClient.Resource.Color.dim_foreground_disabled_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.dim_foreground_disabled_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.dim_foreground_disabled_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.dim_foreground_disabled_material_light;
+			global::Plugin.FacebookClient.Resource.Color.dim_foreground_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.dim_foreground_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.dim_foreground_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.dim_foreground_material_light;
+			global::Plugin.FacebookClient.Resource.Color.foreground_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.foreground_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.foreground_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.foreground_material_light;
+			global::Plugin.FacebookClient.Resource.Color.highlighted_text_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.highlighted_text_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.highlighted_text_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.highlighted_text_material_light;
+			global::Plugin.FacebookClient.Resource.Color.material_blue_grey_800 = global::SocialMediaAuthentication.Droid.Resource.Color.material_blue_grey_800;
+			global::Plugin.FacebookClient.Resource.Color.material_blue_grey_900 = global::SocialMediaAuthentication.Droid.Resource.Color.material_blue_grey_900;
+			global::Plugin.FacebookClient.Resource.Color.material_blue_grey_950 = global::SocialMediaAuthentication.Droid.Resource.Color.material_blue_grey_950;
+			global::Plugin.FacebookClient.Resource.Color.material_deep_teal_200 = global::SocialMediaAuthentication.Droid.Resource.Color.material_deep_teal_200;
+			global::Plugin.FacebookClient.Resource.Color.material_deep_teal_500 = global::SocialMediaAuthentication.Droid.Resource.Color.material_deep_teal_500;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_100 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_100;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_300 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_300;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_50 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_50;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_600 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_600;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_800 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_800;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_850 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_850;
+			global::Plugin.FacebookClient.Resource.Color.material_grey_900 = global::SocialMediaAuthentication.Droid.Resource.Color.material_grey_900;
+			global::Plugin.FacebookClient.Resource.Color.notification_action_color_filter = global::SocialMediaAuthentication.Droid.Resource.Color.notification_action_color_filter;
+			global::Plugin.FacebookClient.Resource.Color.notification_icon_bg_color = global::SocialMediaAuthentication.Droid.Resource.Color.notification_icon_bg_color;
+			global::Plugin.FacebookClient.Resource.Color.notification_material_background_media_default_color = global::SocialMediaAuthentication.Droid.Resource.Color.notification_material_background_media_default_color;
+			global::Plugin.FacebookClient.Resource.Color.primary_dark_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.primary_dark_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.primary_dark_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.primary_dark_material_light;
+			global::Plugin.FacebookClient.Resource.Color.primary_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.primary_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.primary_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.primary_material_light;
+			global::Plugin.FacebookClient.Resource.Color.primary_text_default_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.primary_text_default_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.primary_text_default_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.primary_text_default_material_light;
+			global::Plugin.FacebookClient.Resource.Color.primary_text_disabled_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.primary_text_disabled_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.primary_text_disabled_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.primary_text_disabled_material_light;
+			global::Plugin.FacebookClient.Resource.Color.ripple_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.ripple_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.ripple_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.ripple_material_light;
+			global::Plugin.FacebookClient.Resource.Color.secondary_text_default_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.secondary_text_default_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.secondary_text_default_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.secondary_text_default_material_light;
+			global::Plugin.FacebookClient.Resource.Color.secondary_text_disabled_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.secondary_text_disabled_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.secondary_text_disabled_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.secondary_text_disabled_material_light;
+			global::Plugin.FacebookClient.Resource.Color.switch_thumb_disabled_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.switch_thumb_disabled_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.switch_thumb_disabled_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.switch_thumb_disabled_material_light;
+			global::Plugin.FacebookClient.Resource.Color.switch_thumb_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.switch_thumb_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.switch_thumb_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.switch_thumb_material_light;
+			global::Plugin.FacebookClient.Resource.Color.switch_thumb_normal_material_dark = global::SocialMediaAuthentication.Droid.Resource.Color.switch_thumb_normal_material_dark;
+			global::Plugin.FacebookClient.Resource.Color.switch_thumb_normal_material_light = global::SocialMediaAuthentication.Droid.Resource.Color.switch_thumb_normal_material_light;
+			global::Plugin.FacebookClient.Resource.Color.tooltip_background_dark = global::SocialMediaAuthentication.Droid.Resource.Color.tooltip_background_dark;
+			global::Plugin.FacebookClient.Resource.Color.tooltip_background_light = global::SocialMediaAuthentication.Droid.Resource.Color.tooltip_background_light;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_content_inset_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_content_inset_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_content_inset_with_nav = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_content_inset_with_nav;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_default_height_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_default_height_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_default_padding_end_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_default_padding_end_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_default_padding_start_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_default_padding_start_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_elevation_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_elevation_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_icon_vertical_padding_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_icon_vertical_padding_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_overflow_padding_end_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_overflow_padding_end_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_overflow_padding_start_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_overflow_padding_start_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_stacked_max_height = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_stacked_max_height;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_stacked_tab_max_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_stacked_tab_max_width;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_subtitle_bottom_margin_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_bar_subtitle_top_margin_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_bar_subtitle_top_margin_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_button_min_height_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_button_min_height_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_button_min_width_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_button_min_width_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_action_button_min_width_overflow_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_action_button_min_width_overflow_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_alert_dialog_button_bar_height = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_alert_dialog_button_bar_height;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_button_inset_horizontal_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_button_inset_horizontal_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_button_inset_vertical_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_button_inset_vertical_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_button_padding_horizontal_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_button_padding_horizontal_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_button_padding_vertical_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_button_padding_vertical_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_cascading_menus_min_smallest_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_cascading_menus_min_smallest_width;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_config_prefDialogWidth = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_config_prefDialogWidth;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_control_corner_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_control_corner_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_control_inset_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_control_inset_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_control_padding_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_control_padding_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_fixed_height_major = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_fixed_height_major;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_fixed_height_minor = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_fixed_height_minor;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_fixed_width_major = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_fixed_width_major;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_fixed_width_minor = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_fixed_width_minor;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_list_padding_bottom_no_buttons;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_list_padding_top_no_title = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_list_padding_top_no_title;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_min_width_major = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_min_width_major;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_min_width_minor = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_min_width_minor;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_padding_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_padding_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_padding_top_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_padding_top_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dialog_title_divider_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dialog_title_divider_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_disabled_alpha_material_dark = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_disabled_alpha_material_dark;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_disabled_alpha_material_light = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_disabled_alpha_material_light;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dropdownitem_icon_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dropdownitem_icon_width;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dropdownitem_text_padding_left = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dropdownitem_text_padding_left;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_dropdownitem_text_padding_right = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_dropdownitem_text_padding_right;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_edit_text_inset_bottom_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_edit_text_inset_bottom_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_edit_text_inset_horizontal_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_edit_text_inset_horizontal_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_edit_text_inset_top_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_edit_text_inset_top_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_floating_window_z = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_floating_window_z;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_list_item_padding_horizontal_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_list_item_padding_horizontal_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_panel_menu_list_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_panel_menu_list_width;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_progress_bar_height_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_progress_bar_height_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_search_view_preferred_height = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_search_view_preferred_height;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_search_view_preferred_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_search_view_preferred_width;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_seekbar_track_background_height_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_seekbar_track_background_height_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_seekbar_track_progress_height_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_seekbar_track_progress_height_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_select_dialog_padding_start_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_select_dialog_padding_start_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_switch_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_switch_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_body_1_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_body_1_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_body_2_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_body_2_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_button_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_button_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_caption_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_caption_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_display_1_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_display_1_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_display_2_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_display_2_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_display_3_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_display_3_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_display_4_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_display_4_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_headline_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_headline_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_large_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_large_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_medium_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_medium_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_menu_header_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_menu_header_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_menu_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_menu_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_small_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_small_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_subhead_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_subhead_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_subtitle_material_toolbar = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_subtitle_material_toolbar;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_title_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_title_material;
+			global::Plugin.FacebookClient.Resource.Dimension.abc_text_size_title_material_toolbar = global::SocialMediaAuthentication.Droid.Resource.Dimension.abc_text_size_title_material_toolbar;
+			global::Plugin.FacebookClient.Resource.Dimension.cardview_compat_inset_shadow = global::SocialMediaAuthentication.Droid.Resource.Dimension.cardview_compat_inset_shadow;
+			global::Plugin.FacebookClient.Resource.Dimension.cardview_default_elevation = global::SocialMediaAuthentication.Droid.Resource.Dimension.cardview_default_elevation;
+			global::Plugin.FacebookClient.Resource.Dimension.cardview_default_radius = global::SocialMediaAuthentication.Droid.Resource.Dimension.cardview_default_radius;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_auth_dialog_corner_radius = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_auth_dialog_corner_radius;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_auth_dialog_corner_radius_oversized = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_auth_dialog_corner_radius_oversized;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_button_corner_radius = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_button_corner_radius;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_button_login_corner_radius = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_button_login_corner_radius;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeboxcountview_border_radius = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeboxcountview_border_radius;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeboxcountview_border_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeboxcountview_border_width;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeboxcountview_caret_height = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeboxcountview_caret_height;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeboxcountview_caret_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeboxcountview_caret_width;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeboxcountview_text_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeboxcountview_text_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeboxcountview_text_size = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeboxcountview_text_size;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeview_edge_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeview_edge_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeview_internal_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeview_internal_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_likeview_text_size = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_likeview_text_size;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_profilepictureview_preset_size_large = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_profilepictureview_preset_size_large;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_profilepictureview_preset_size_normal = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_profilepictureview_preset_size_normal;
+			global::Plugin.FacebookClient.Resource.Dimension.com_facebook_profilepictureview_preset_size_small = global::SocialMediaAuthentication.Droid.Resource.Dimension.com_facebook_profilepictureview_preset_size_small;
+			global::Plugin.FacebookClient.Resource.Dimension.compat_button_inset_horizontal_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.compat_button_inset_horizontal_material;
+			global::Plugin.FacebookClient.Resource.Dimension.compat_button_inset_vertical_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.compat_button_inset_vertical_material;
+			global::Plugin.FacebookClient.Resource.Dimension.compat_button_padding_horizontal_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.compat_button_padding_horizontal_material;
+			global::Plugin.FacebookClient.Resource.Dimension.compat_button_padding_vertical_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.compat_button_padding_vertical_material;
+			global::Plugin.FacebookClient.Resource.Dimension.compat_control_corner_material = global::SocialMediaAuthentication.Droid.Resource.Dimension.compat_control_corner_material;
+			global::Plugin.FacebookClient.Resource.Dimension.disabled_alpha_material_dark = global::SocialMediaAuthentication.Droid.Resource.Dimension.disabled_alpha_material_dark;
+			global::Plugin.FacebookClient.Resource.Dimension.disabled_alpha_material_light = global::SocialMediaAuthentication.Droid.Resource.Dimension.disabled_alpha_material_light;
+			global::Plugin.FacebookClient.Resource.Dimension.highlight_alpha_material_colored = global::SocialMediaAuthentication.Droid.Resource.Dimension.highlight_alpha_material_colored;
+			global::Plugin.FacebookClient.Resource.Dimension.highlight_alpha_material_dark = global::SocialMediaAuthentication.Droid.Resource.Dimension.highlight_alpha_material_dark;
+			global::Plugin.FacebookClient.Resource.Dimension.highlight_alpha_material_light = global::SocialMediaAuthentication.Droid.Resource.Dimension.highlight_alpha_material_light;
+			global::Plugin.FacebookClient.Resource.Dimension.hint_alpha_material_dark = global::SocialMediaAuthentication.Droid.Resource.Dimension.hint_alpha_material_dark;
+			global::Plugin.FacebookClient.Resource.Dimension.hint_alpha_material_light = global::SocialMediaAuthentication.Droid.Resource.Dimension.hint_alpha_material_light;
+			global::Plugin.FacebookClient.Resource.Dimension.hint_pressed_alpha_material_dark = global::SocialMediaAuthentication.Droid.Resource.Dimension.hint_pressed_alpha_material_dark;
+			global::Plugin.FacebookClient.Resource.Dimension.hint_pressed_alpha_material_light = global::SocialMediaAuthentication.Droid.Resource.Dimension.hint_pressed_alpha_material_light;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_action_icon_size = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_action_icon_size;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_action_text_size = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_action_text_size;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_big_circle_margin = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_big_circle_margin;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_content_margin_start = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_content_margin_start;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_large_icon_height = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_large_icon_height;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_large_icon_width = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_large_icon_width;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_main_column_padding_top = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_main_column_padding_top;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_media_narrow_margin = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_media_narrow_margin;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_right_icon_size = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_right_icon_size;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_right_side_padding_top = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_right_side_padding_top;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_small_icon_background_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_small_icon_background_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_small_icon_size_as_large = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_small_icon_size_as_large;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_subtext_size = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_subtext_size;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_top_pad = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_top_pad;
+			global::Plugin.FacebookClient.Resource.Dimension.notification_top_pad_large_text = global::SocialMediaAuthentication.Droid.Resource.Dimension.notification_top_pad_large_text;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_corner_radius = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_corner_radius;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_horizontal_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_horizontal_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_margin = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_margin;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_precise_anchor_extra_offset = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_precise_anchor_extra_offset;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_precise_anchor_threshold = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_precise_anchor_threshold;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_vertical_padding = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_vertical_padding;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_y_offset_non_touch = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_y_offset_non_touch;
+			global::Plugin.FacebookClient.Resource.Dimension.tooltip_y_offset_touch = global::SocialMediaAuthentication.Droid.Resource.Dimension.tooltip_y_offset_touch;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ab_share_pack_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ab_share_pack_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_action_bar_item_background_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_action_bar_item_background_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_borderless_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_borderless_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_check_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_check_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_check_to_on_mtrl_000 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_000;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_check_to_on_mtrl_015 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_check_to_on_mtrl_015;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_colored_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_colored_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_default_mtrl_shape = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_default_mtrl_shape;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_radio_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_radio_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_radio_to_on_mtrl_000 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_000;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_radio_to_on_mtrl_015 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_radio_to_on_mtrl_015;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00001;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_btn_switch_to_on_mtrl_00012;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_cab_background_internal_bg = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_cab_background_internal_bg;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_cab_background_top_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_cab_background_top_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_cab_background_top_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_cab_background_top_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_control_background_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_control_background_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_dialog_material_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_dialog_material_background;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_edit_text_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_edit_text_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_ab_back_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_ab_back_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_arrow_drop_right_black_24dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_clear_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_clear_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_commit_search_api_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_go_search_api_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_go_search_api_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_menu_copy_mtrl_am_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_menu_cut_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_menu_overflow_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_menu_overflow_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_menu_paste_mtrl_am_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_menu_selectall_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_menu_share_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_menu_share_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_search_api_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_search_api_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_star_black_16dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_star_black_16dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_star_black_36dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_star_black_36dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_star_black_48dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_star_black_48dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_star_half_black_16dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_star_half_black_16dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_star_half_black_36dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_star_half_black_36dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_star_half_black_48dp = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_star_half_black_48dp;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ic_voice_search_api_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ic_voice_search_api_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_item_background_holo_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_item_background_holo_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_item_background_holo_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_item_background_holo_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_divider_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_divider_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_focused_holo = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_focused_holo;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_longpressed_holo = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_longpressed_holo;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_pressed_holo_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_pressed_holo_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_pressed_holo_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_pressed_holo_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_selector_background_transition_holo_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_selector_background_transition_holo_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_selector_background_transition_holo_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_selector_disabled_holo_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_selector_disabled_holo_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_selector_disabled_holo_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_selector_disabled_holo_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_selector_holo_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_selector_holo_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_list_selector_holo_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_list_selector_holo_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_menu_hardkey_panel_mtrl_mult;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_popup_background_mtrl_mult = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_popup_background_mtrl_mult;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ratingbar_indicator_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ratingbar_indicator_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ratingbar_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ratingbar_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_ratingbar_small_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_ratingbar_small_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_scrubber_control_off_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_000;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005 = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_scrubber_control_to_pressed_mtrl_005;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_scrubber_primary_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_scrubber_primary_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_scrubber_track_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_scrubber_track_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_seekbar_thumb_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_seekbar_thumb_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_seekbar_tick_mark_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_seekbar_tick_mark_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_seekbar_track_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_seekbar_track_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_spinner_mtrl_am_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_spinner_mtrl_am_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_spinner_textfield_background_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_spinner_textfield_background_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_switch_thumb_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_switch_thumb_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_switch_track_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_switch_track_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_tab_indicator_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_tab_indicator_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_tab_indicator_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_tab_indicator_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_cursor_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_cursor_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_select_handle_left_mtrl_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_select_handle_left_mtrl_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_select_handle_left_mtrl_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_select_handle_middle_mtrl_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_select_handle_middle_mtrl_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_select_handle_right_mtrl_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_text_select_handle_right_mtrl_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_text_select_handle_right_mtrl_light;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_textfield_activated_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_textfield_activated_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_textfield_default_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_textfield_default_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_textfield_search_activated_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_textfield_search_default_mtrl_alpha = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_textfield_search_default_mtrl_alpha;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_textfield_search_material = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_textfield_search_material;
+			global::Plugin.FacebookClient.Resource.Drawable.abc_vector_test = global::SocialMediaAuthentication.Droid.Resource.Drawable.abc_vector_test;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_auth_dialog_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_auth_dialog_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_auth_dialog_cancel_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_auth_dialog_cancel_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_auth_dialog_header_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_auth_dialog_header_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_icon = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_icon;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_icon_blue = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_icon_blue;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_icon_white = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_icon_white;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_like_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_like_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_like_icon_selected = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_like_icon_selected;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_login_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_login_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_login_logo = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_login_logo;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_login_silver_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_login_silver_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_send_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_send_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_send_icon_blue = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_send_icon_blue;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_button_send_icon_white = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_button_send_icon_white;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_close = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_close;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_favicon_blue = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_favicon_blue;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_profile_picture_blank_portrait = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_profile_picture_blank_portrait;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_profile_picture_blank_square = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_profile_picture_blank_square;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_send_button_icon = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_send_button_icon;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_black_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_black_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_black_bottomnub = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_black_bottomnub;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_black_topnub = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_black_topnub;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_black_xout = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_black_xout;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_blue_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_blue_background;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_blue_bottomnub = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_blue_bottomnub;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_blue_topnub = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_blue_topnub;
+			global::Plugin.FacebookClient.Resource.Drawable.com_facebook_tooltip_blue_xout = global::SocialMediaAuthentication.Droid.Resource.Drawable.com_facebook_tooltip_blue_xout;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_bubble_large_blue = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_bubble_large_blue;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_bubble_large_white = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_bubble_large_white;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_bubble_small_blue = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_bubble_small_blue;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_bubble_small_white = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_bubble_small_white;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_button_blue_bg_round = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_button_blue_bg_round;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_button_blue_bg_selector = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_button_blue_bg_selector;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_button_send_round_shadow = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_button_send_round_shadow;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_button_white_bg_round = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_button_white_bg_round;
+			global::Plugin.FacebookClient.Resource.Drawable.messenger_button_white_bg_selector = global::SocialMediaAuthentication.Droid.Resource.Drawable.messenger_button_white_bg_selector;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_action_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_action_background;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_bg = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_bg;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_bg_low = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_bg_low;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_bg_low_normal = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_bg_low_normal;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_bg_low_pressed = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_bg_low_pressed;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_bg_normal = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_bg_normal;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_bg_normal_pressed = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_bg_normal_pressed;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_icon_background = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_icon_background;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_template_icon_bg = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_template_icon_bg;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_template_icon_low_bg = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_template_icon_low_bg;
+			global::Plugin.FacebookClient.Resource.Drawable.notification_tile_bg = global::SocialMediaAuthentication.Droid.Resource.Drawable.notification_tile_bg;
+			global::Plugin.FacebookClient.Resource.Drawable.notify_panel_notification_icon_bg = global::SocialMediaAuthentication.Droid.Resource.Drawable.notify_panel_notification_icon_bg;
+			global::Plugin.FacebookClient.Resource.Drawable.tooltip_frame_dark = global::SocialMediaAuthentication.Droid.Resource.Drawable.tooltip_frame_dark;
+			global::Plugin.FacebookClient.Resource.Drawable.tooltip_frame_light = global::SocialMediaAuthentication.Droid.Resource.Drawable.tooltip_frame_light;
+			global::Plugin.FacebookClient.Resource.Id.ALT = global::SocialMediaAuthentication.Droid.Resource.Id.ALT;
+			global::Plugin.FacebookClient.Resource.Id.CTRL = global::SocialMediaAuthentication.Droid.Resource.Id.CTRL;
+			global::Plugin.FacebookClient.Resource.Id.FUNCTION = global::SocialMediaAuthentication.Droid.Resource.Id.FUNCTION;
+			global::Plugin.FacebookClient.Resource.Id.META = global::SocialMediaAuthentication.Droid.Resource.Id.META;
+			global::Plugin.FacebookClient.Resource.Id.SHIFT = global::SocialMediaAuthentication.Droid.Resource.Id.SHIFT;
+			global::Plugin.FacebookClient.Resource.Id.SYM = global::SocialMediaAuthentication.Droid.Resource.Id.SYM;
+			global::Plugin.FacebookClient.Resource.Id.action0 = global::SocialMediaAuthentication.Droid.Resource.Id.action0;
+			global::Plugin.FacebookClient.Resource.Id.action_bar = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar;
+			global::Plugin.FacebookClient.Resource.Id.action_bar_activity_content = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar_activity_content;
+			global::Plugin.FacebookClient.Resource.Id.action_bar_container = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar_container;
+			global::Plugin.FacebookClient.Resource.Id.action_bar_root = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar_root;
+			global::Plugin.FacebookClient.Resource.Id.action_bar_spinner = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar_spinner;
+			global::Plugin.FacebookClient.Resource.Id.action_bar_subtitle = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar_subtitle;
+			global::Plugin.FacebookClient.Resource.Id.action_bar_title = global::SocialMediaAuthentication.Droid.Resource.Id.action_bar_title;
+			global::Plugin.FacebookClient.Resource.Id.action_container = global::SocialMediaAuthentication.Droid.Resource.Id.action_container;
+			global::Plugin.FacebookClient.Resource.Id.action_context_bar = global::SocialMediaAuthentication.Droid.Resource.Id.action_context_bar;
+			global::Plugin.FacebookClient.Resource.Id.action_divider = global::SocialMediaAuthentication.Droid.Resource.Id.action_divider;
+			global::Plugin.FacebookClient.Resource.Id.action_image = global::SocialMediaAuthentication.Droid.Resource.Id.action_image;
+			global::Plugin.FacebookClient.Resource.Id.action_menu_divider = global::SocialMediaAuthentication.Droid.Resource.Id.action_menu_divider;
+			global::Plugin.FacebookClient.Resource.Id.action_menu_presenter = global::SocialMediaAuthentication.Droid.Resource.Id.action_menu_presenter;
+			global::Plugin.FacebookClient.Resource.Id.action_mode_bar = global::SocialMediaAuthentication.Droid.Resource.Id.action_mode_bar;
+			global::Plugin.FacebookClient.Resource.Id.action_mode_bar_stub = global::SocialMediaAuthentication.Droid.Resource.Id.action_mode_bar_stub;
+			global::Plugin.FacebookClient.Resource.Id.action_mode_close_button = global::SocialMediaAuthentication.Droid.Resource.Id.action_mode_close_button;
+			global::Plugin.FacebookClient.Resource.Id.action_text = global::SocialMediaAuthentication.Droid.Resource.Id.action_text;
+			global::Plugin.FacebookClient.Resource.Id.actions = global::SocialMediaAuthentication.Droid.Resource.Id.actions;
+			global::Plugin.FacebookClient.Resource.Id.activity_chooser_view_content = global::SocialMediaAuthentication.Droid.Resource.Id.activity_chooser_view_content;
+			global::Plugin.FacebookClient.Resource.Id.add = global::SocialMediaAuthentication.Droid.Resource.Id.add;
+			global::Plugin.FacebookClient.Resource.Id.alertTitle = global::SocialMediaAuthentication.Droid.Resource.Id.alertTitle;
+			global::Plugin.FacebookClient.Resource.Id.always = global::SocialMediaAuthentication.Droid.Resource.Id.always;
+			global::Plugin.FacebookClient.Resource.Id.async = global::SocialMediaAuthentication.Droid.Resource.Id.async;
+			global::Plugin.FacebookClient.Resource.Id.automatic = global::SocialMediaAuthentication.Droid.Resource.Id.automatic;
+			global::Plugin.FacebookClient.Resource.Id.beginning = global::SocialMediaAuthentication.Droid.Resource.Id.beginning;
+			global::Plugin.FacebookClient.Resource.Id.blocking = global::SocialMediaAuthentication.Droid.Resource.Id.blocking;
+			global::Plugin.FacebookClient.Resource.Id.bottom = global::SocialMediaAuthentication.Droid.Resource.Id.bottom;
+			global::Plugin.FacebookClient.Resource.Id.box_count = global::SocialMediaAuthentication.Droid.Resource.Id.box_count;
+			global::Plugin.FacebookClient.Resource.Id.button = global::SocialMediaAuthentication.Droid.Resource.Id.button;
+			global::Plugin.FacebookClient.Resource.Id.buttonPanel = global::SocialMediaAuthentication.Droid.Resource.Id.buttonPanel;
+			global::Plugin.FacebookClient.Resource.Id.cancel_action = global::SocialMediaAuthentication.Droid.Resource.Id.cancel_action;
+			global::Plugin.FacebookClient.Resource.Id.cancel_button = global::SocialMediaAuthentication.Droid.Resource.Id.cancel_button;
+			global::Plugin.FacebookClient.Resource.Id.center = global::SocialMediaAuthentication.Droid.Resource.Id.center;
+			global::Plugin.FacebookClient.Resource.Id.checkbox = global::SocialMediaAuthentication.Droid.Resource.Id.checkbox;
+			global::Plugin.FacebookClient.Resource.Id.chronometer = global::SocialMediaAuthentication.Droid.Resource.Id.chronometer;
+			global::Plugin.FacebookClient.Resource.Id.collapseActionView = global::SocialMediaAuthentication.Droid.Resource.Id.collapseActionView;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_body_frame = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_body_frame;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_button_xout = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_button_xout;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_device_auth_instructions = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_device_auth_instructions;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_fragment_container = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_fragment_container;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_login_fragment_progress_bar = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_login_fragment_progress_bar;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_smart_instructions_0 = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_smart_instructions_0;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_smart_instructions_or = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_smart_instructions_or;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_tooltip_bubble_view_bottom_pointer = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_tooltip_bubble_view_bottom_pointer;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_tooltip_bubble_view_text_body = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_tooltip_bubble_view_text_body;
+			global::Plugin.FacebookClient.Resource.Id.com_facebook_tooltip_bubble_view_top_pointer = global::SocialMediaAuthentication.Droid.Resource.Id.com_facebook_tooltip_bubble_view_top_pointer;
+			global::Plugin.FacebookClient.Resource.Id.confirmation_code = global::SocialMediaAuthentication.Droid.Resource.Id.confirmation_code;
+			global::Plugin.FacebookClient.Resource.Id.contentPanel = global::SocialMediaAuthentication.Droid.Resource.Id.contentPanel;
+			global::Plugin.FacebookClient.Resource.Id.custom = global::SocialMediaAuthentication.Droid.Resource.Id.custom;
+			global::Plugin.FacebookClient.Resource.Id.customPanel = global::SocialMediaAuthentication.Droid.Resource.Id.customPanel;
+			global::Plugin.FacebookClient.Resource.Id.decor_content_parent = global::SocialMediaAuthentication.Droid.Resource.Id.decor_content_parent;
+			global::Plugin.FacebookClient.Resource.Id.default_activity_button = global::SocialMediaAuthentication.Droid.Resource.Id.default_activity_button;
+			global::Plugin.FacebookClient.Resource.Id.disableHome = global::SocialMediaAuthentication.Droid.Resource.Id.disableHome;
+			global::Plugin.FacebookClient.Resource.Id.display_always = global::SocialMediaAuthentication.Droid.Resource.Id.display_always;
+			global::Plugin.FacebookClient.Resource.Id.edit_query = global::SocialMediaAuthentication.Droid.Resource.Id.edit_query;
+			global::Plugin.FacebookClient.Resource.Id.end = global::SocialMediaAuthentication.Droid.Resource.Id.end;
+			global::Plugin.FacebookClient.Resource.Id.end_padder = global::SocialMediaAuthentication.Droid.Resource.Id.end_padder;
+			global::Plugin.FacebookClient.Resource.Id.expand_activities_button = global::SocialMediaAuthentication.Droid.Resource.Id.expand_activities_button;
+			global::Plugin.FacebookClient.Resource.Id.expanded_menu = global::SocialMediaAuthentication.Droid.Resource.Id.expanded_menu;
+			global::Plugin.FacebookClient.Resource.Id.forever = global::SocialMediaAuthentication.Droid.Resource.Id.forever;
+			global::Plugin.FacebookClient.Resource.Id.home = global::SocialMediaAuthentication.Droid.Resource.Id.home;
+			global::Plugin.FacebookClient.Resource.Id.homeAsUp = global::SocialMediaAuthentication.Droid.Resource.Id.homeAsUp;
+			global::Plugin.FacebookClient.Resource.Id.icon = global::SocialMediaAuthentication.Droid.Resource.Id.icon;
+			global::Plugin.FacebookClient.Resource.Id.icon_group = global::SocialMediaAuthentication.Droid.Resource.Id.icon_group;
+			global::Plugin.FacebookClient.Resource.Id.ifRoom = global::SocialMediaAuthentication.Droid.Resource.Id.ifRoom;
+			global::Plugin.FacebookClient.Resource.Id.image = global::SocialMediaAuthentication.Droid.Resource.Id.image;
+			global::Plugin.FacebookClient.Resource.Id.info = global::SocialMediaAuthentication.Droid.Resource.Id.info;
+			global::Plugin.FacebookClient.Resource.Id.inline = global::SocialMediaAuthentication.Droid.Resource.Id.inline;
+			global::Plugin.FacebookClient.Resource.Id.italic = global::SocialMediaAuthentication.Droid.Resource.Id.italic;
+			global::Plugin.FacebookClient.Resource.Id.large = global::SocialMediaAuthentication.Droid.Resource.Id.large;
+			global::Plugin.FacebookClient.Resource.Id.left = global::SocialMediaAuthentication.Droid.Resource.Id.left;
+			global::Plugin.FacebookClient.Resource.Id.line1 = global::SocialMediaAuthentication.Droid.Resource.Id.line1;
+			global::Plugin.FacebookClient.Resource.Id.line3 = global::SocialMediaAuthentication.Droid.Resource.Id.line3;
+			global::Plugin.FacebookClient.Resource.Id.listMode = global::SocialMediaAuthentication.Droid.Resource.Id.listMode;
+			global::Plugin.FacebookClient.Resource.Id.list_item = global::SocialMediaAuthentication.Droid.Resource.Id.list_item;
+			global::Plugin.FacebookClient.Resource.Id.media_actions = global::SocialMediaAuthentication.Droid.Resource.Id.media_actions;
+			global::Plugin.FacebookClient.Resource.Id.message = global::SocialMediaAuthentication.Droid.Resource.Id.message;
+			global::Plugin.FacebookClient.Resource.Id.messenger_send_button = global::SocialMediaAuthentication.Droid.Resource.Id.messenger_send_button;
+			global::Plugin.FacebookClient.Resource.Id.middle = global::SocialMediaAuthentication.Droid.Resource.Id.middle;
+			global::Plugin.FacebookClient.Resource.Id.multiply = global::SocialMediaAuthentication.Droid.Resource.Id.multiply;
+			global::Plugin.FacebookClient.Resource.Id.never = global::SocialMediaAuthentication.Droid.Resource.Id.never;
+			global::Plugin.FacebookClient.Resource.Id.never_display = global::SocialMediaAuthentication.Droid.Resource.Id.never_display;
+			global::Plugin.FacebookClient.Resource.Id.none = global::SocialMediaAuthentication.Droid.Resource.Id.none;
+			global::Plugin.FacebookClient.Resource.Id.normal = global::SocialMediaAuthentication.Droid.Resource.Id.normal;
+			global::Plugin.FacebookClient.Resource.Id.notification_background = global::SocialMediaAuthentication.Droid.Resource.Id.notification_background;
+			global::Plugin.FacebookClient.Resource.Id.notification_main_column = global::SocialMediaAuthentication.Droid.Resource.Id.notification_main_column;
+			global::Plugin.FacebookClient.Resource.Id.notification_main_column_container = global::SocialMediaAuthentication.Droid.Resource.Id.notification_main_column_container;
+			global::Plugin.FacebookClient.Resource.Id.open_graph = global::SocialMediaAuthentication.Droid.Resource.Id.open_graph;
+			global::Plugin.FacebookClient.Resource.Id.page = global::SocialMediaAuthentication.Droid.Resource.Id.page;
+			global::Plugin.FacebookClient.Resource.Id.parentPanel = global::SocialMediaAuthentication.Droid.Resource.Id.parentPanel;
+			global::Plugin.FacebookClient.Resource.Id.progress_bar = global::SocialMediaAuthentication.Droid.Resource.Id.progress_bar;
+			global::Plugin.FacebookClient.Resource.Id.progress_circular = global::SocialMediaAuthentication.Droid.Resource.Id.progress_circular;
+			global::Plugin.FacebookClient.Resource.Id.progress_horizontal = global::SocialMediaAuthentication.Droid.Resource.Id.progress_horizontal;
+			global::Plugin.FacebookClient.Resource.Id.radio = global::SocialMediaAuthentication.Droid.Resource.Id.radio;
+			global::Plugin.FacebookClient.Resource.Id.right = global::SocialMediaAuthentication.Droid.Resource.Id.right;
+			global::Plugin.FacebookClient.Resource.Id.right_icon = global::SocialMediaAuthentication.Droid.Resource.Id.right_icon;
+			global::Plugin.FacebookClient.Resource.Id.right_side = global::SocialMediaAuthentication.Droid.Resource.Id.right_side;
+			global::Plugin.FacebookClient.Resource.Id.screen = global::SocialMediaAuthentication.Droid.Resource.Id.screen;
+			global::Plugin.FacebookClient.Resource.Id.scrollIndicatorDown = global::SocialMediaAuthentication.Droid.Resource.Id.scrollIndicatorDown;
+			global::Plugin.FacebookClient.Resource.Id.scrollIndicatorUp = global::SocialMediaAuthentication.Droid.Resource.Id.scrollIndicatorUp;
+			global::Plugin.FacebookClient.Resource.Id.scrollView = global::SocialMediaAuthentication.Droid.Resource.Id.scrollView;
+			global::Plugin.FacebookClient.Resource.Id.search_badge = global::SocialMediaAuthentication.Droid.Resource.Id.search_badge;
+			global::Plugin.FacebookClient.Resource.Id.search_bar = global::SocialMediaAuthentication.Droid.Resource.Id.search_bar;
+			global::Plugin.FacebookClient.Resource.Id.search_button = global::SocialMediaAuthentication.Droid.Resource.Id.search_button;
+			global::Plugin.FacebookClient.Resource.Id.search_close_btn = global::SocialMediaAuthentication.Droid.Resource.Id.search_close_btn;
+			global::Plugin.FacebookClient.Resource.Id.search_edit_frame = global::SocialMediaAuthentication.Droid.Resource.Id.search_edit_frame;
+			global::Plugin.FacebookClient.Resource.Id.search_go_btn = global::SocialMediaAuthentication.Droid.Resource.Id.search_go_btn;
+			global::Plugin.FacebookClient.Resource.Id.search_mag_icon = global::SocialMediaAuthentication.Droid.Resource.Id.search_mag_icon;
+			global::Plugin.FacebookClient.Resource.Id.search_plate = global::SocialMediaAuthentication.Droid.Resource.Id.search_plate;
+			global::Plugin.FacebookClient.Resource.Id.search_src_text = global::SocialMediaAuthentication.Droid.Resource.Id.search_src_text;
+			global::Plugin.FacebookClient.Resource.Id.search_voice_btn = global::SocialMediaAuthentication.Droid.Resource.Id.search_voice_btn;
+			global::Plugin.FacebookClient.Resource.Id.select_dialog_listview = global::SocialMediaAuthentication.Droid.Resource.Id.select_dialog_listview;
+			global::Plugin.FacebookClient.Resource.Id.shortcut = global::SocialMediaAuthentication.Droid.Resource.Id.shortcut;
+			global::Plugin.FacebookClient.Resource.Id.showCustom = global::SocialMediaAuthentication.Droid.Resource.Id.showCustom;
+			global::Plugin.FacebookClient.Resource.Id.showHome = global::SocialMediaAuthentication.Droid.Resource.Id.showHome;
+			global::Plugin.FacebookClient.Resource.Id.showTitle = global::SocialMediaAuthentication.Droid.Resource.Id.showTitle;
+			global::Plugin.FacebookClient.Resource.Id.small = global::SocialMediaAuthentication.Droid.Resource.Id.small;
+			global::Plugin.FacebookClient.Resource.Id.spacer = global::SocialMediaAuthentication.Droid.Resource.Id.spacer;
+			global::Plugin.FacebookClient.Resource.Id.split_action_bar = global::SocialMediaAuthentication.Droid.Resource.Id.split_action_bar;
+			global::Plugin.FacebookClient.Resource.Id.src_atop = global::SocialMediaAuthentication.Droid.Resource.Id.src_atop;
+			global::Plugin.FacebookClient.Resource.Id.src_in = global::SocialMediaAuthentication.Droid.Resource.Id.src_in;
+			global::Plugin.FacebookClient.Resource.Id.src_over = global::SocialMediaAuthentication.Droid.Resource.Id.src_over;
+			global::Plugin.FacebookClient.Resource.Id.standard = global::SocialMediaAuthentication.Droid.Resource.Id.standard;
+			global::Plugin.FacebookClient.Resource.Id.status_bar_latest_event_content = global::SocialMediaAuthentication.Droid.Resource.Id.status_bar_latest_event_content;
+			global::Plugin.FacebookClient.Resource.Id.submenuarrow = global::SocialMediaAuthentication.Droid.Resource.Id.submenuarrow;
+			global::Plugin.FacebookClient.Resource.Id.submit_area = global::SocialMediaAuthentication.Droid.Resource.Id.submit_area;
+			global::Plugin.FacebookClient.Resource.Id.tabMode = global::SocialMediaAuthentication.Droid.Resource.Id.tabMode;
+			global::Plugin.FacebookClient.Resource.Id.tag_transition_group = global::SocialMediaAuthentication.Droid.Resource.Id.tag_transition_group;
+			global::Plugin.FacebookClient.Resource.Id.text = global::SocialMediaAuthentication.Droid.Resource.Id.text;
+			global::Plugin.FacebookClient.Resource.Id.text2 = global::SocialMediaAuthentication.Droid.Resource.Id.text2;
+			global::Plugin.FacebookClient.Resource.Id.textSpacerNoButtons = global::SocialMediaAuthentication.Droid.Resource.Id.textSpacerNoButtons;
+			global::Plugin.FacebookClient.Resource.Id.textSpacerNoTitle = global::SocialMediaAuthentication.Droid.Resource.Id.textSpacerNoTitle;
+			global::Plugin.FacebookClient.Resource.Id.time = global::SocialMediaAuthentication.Droid.Resource.Id.time;
+			global::Plugin.FacebookClient.Resource.Id.title = global::SocialMediaAuthentication.Droid.Resource.Id.title;
+			global::Plugin.FacebookClient.Resource.Id.titleDividerNoCustom = global::SocialMediaAuthentication.Droid.Resource.Id.titleDividerNoCustom;
+			global::Plugin.FacebookClient.Resource.Id.title_template = global::SocialMediaAuthentication.Droid.Resource.Id.title_template;
+			global::Plugin.FacebookClient.Resource.Id.top = global::SocialMediaAuthentication.Droid.Resource.Id.top;
+			global::Plugin.FacebookClient.Resource.Id.topPanel = global::SocialMediaAuthentication.Droid.Resource.Id.topPanel;
+			global::Plugin.FacebookClient.Resource.Id.uniform = global::SocialMediaAuthentication.Droid.Resource.Id.uniform;
+			global::Plugin.FacebookClient.Resource.Id.unknown = global::SocialMediaAuthentication.Droid.Resource.Id.unknown;
+			global::Plugin.FacebookClient.Resource.Id.up = global::SocialMediaAuthentication.Droid.Resource.Id.up;
+			global::Plugin.FacebookClient.Resource.Id.useLogo = global::SocialMediaAuthentication.Droid.Resource.Id.useLogo;
+			global::Plugin.FacebookClient.Resource.Id.withText = global::SocialMediaAuthentication.Droid.Resource.Id.withText;
+			global::Plugin.FacebookClient.Resource.Id.wrap_content = global::SocialMediaAuthentication.Droid.Resource.Id.wrap_content;
+			global::Plugin.FacebookClient.Resource.Integer.abc_config_activityDefaultDur = global::SocialMediaAuthentication.Droid.Resource.Integer.abc_config_activityDefaultDur;
+			global::Plugin.FacebookClient.Resource.Integer.abc_config_activityShortDur = global::SocialMediaAuthentication.Droid.Resource.Integer.abc_config_activityShortDur;
+			global::Plugin.FacebookClient.Resource.Integer.cancel_button_image_alpha = global::SocialMediaAuthentication.Droid.Resource.Integer.cancel_button_image_alpha;
+			global::Plugin.FacebookClient.Resource.Integer.config_tooltipAnimTime = global::SocialMediaAuthentication.Droid.Resource.Integer.config_tooltipAnimTime;
+			global::Plugin.FacebookClient.Resource.Integer.status_bar_notification_info_maxnum = global::SocialMediaAuthentication.Droid.Resource.Integer.status_bar_notification_info_maxnum;
+			global::Plugin.FacebookClient.Resource.Layout.abc_action_bar_title_item = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_action_bar_title_item;
+			global::Plugin.FacebookClient.Resource.Layout.abc_action_bar_up_container = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_action_bar_up_container;
+			global::Plugin.FacebookClient.Resource.Layout.abc_action_menu_item_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_action_menu_item_layout;
+			global::Plugin.FacebookClient.Resource.Layout.abc_action_menu_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_action_menu_layout;
+			global::Plugin.FacebookClient.Resource.Layout.abc_action_mode_bar = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_action_mode_bar;
+			global::Plugin.FacebookClient.Resource.Layout.abc_action_mode_close_item_material = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_action_mode_close_item_material;
+			global::Plugin.FacebookClient.Resource.Layout.abc_activity_chooser_view = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_activity_chooser_view;
+			global::Plugin.FacebookClient.Resource.Layout.abc_activity_chooser_view_list_item = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_activity_chooser_view_list_item;
+			global::Plugin.FacebookClient.Resource.Layout.abc_alert_dialog_button_bar_material = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_alert_dialog_button_bar_material;
+			global::Plugin.FacebookClient.Resource.Layout.abc_alert_dialog_material = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_alert_dialog_material;
+			global::Plugin.FacebookClient.Resource.Layout.abc_alert_dialog_title_material = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_alert_dialog_title_material;
+			global::Plugin.FacebookClient.Resource.Layout.abc_dialog_title_material = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_dialog_title_material;
+			global::Plugin.FacebookClient.Resource.Layout.abc_expanded_menu_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_expanded_menu_layout;
+			global::Plugin.FacebookClient.Resource.Layout.abc_list_menu_item_checkbox = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_list_menu_item_checkbox;
+			global::Plugin.FacebookClient.Resource.Layout.abc_list_menu_item_icon = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_list_menu_item_icon;
+			global::Plugin.FacebookClient.Resource.Layout.abc_list_menu_item_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_list_menu_item_layout;
+			global::Plugin.FacebookClient.Resource.Layout.abc_list_menu_item_radio = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_list_menu_item_radio;
+			global::Plugin.FacebookClient.Resource.Layout.abc_popup_menu_header_item_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_popup_menu_header_item_layout;
+			global::Plugin.FacebookClient.Resource.Layout.abc_popup_menu_item_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_popup_menu_item_layout;
+			global::Plugin.FacebookClient.Resource.Layout.abc_screen_content_include = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_screen_content_include;
+			global::Plugin.FacebookClient.Resource.Layout.abc_screen_simple = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_screen_simple;
+			global::Plugin.FacebookClient.Resource.Layout.abc_screen_simple_overlay_action_mode = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_screen_simple_overlay_action_mode;
+			global::Plugin.FacebookClient.Resource.Layout.abc_screen_toolbar = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_screen_toolbar;
+			global::Plugin.FacebookClient.Resource.Layout.abc_search_dropdown_item_icons_2line = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_search_dropdown_item_icons_2line;
+			global::Plugin.FacebookClient.Resource.Layout.abc_search_view = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_search_view;
+			global::Plugin.FacebookClient.Resource.Layout.abc_select_dialog_material = global::SocialMediaAuthentication.Droid.Resource.Layout.abc_select_dialog_material;
+			global::Plugin.FacebookClient.Resource.Layout.com_facebook_activity_layout = global::SocialMediaAuthentication.Droid.Resource.Layout.com_facebook_activity_layout;
+			global::Plugin.FacebookClient.Resource.Layout.com_facebook_device_auth_dialog_fragment = global::SocialMediaAuthentication.Droid.Resource.Layout.com_facebook_device_auth_dialog_fragment;
+			global::Plugin.FacebookClient.Resource.Layout.com_facebook_login_fragment = global::SocialMediaAuthentication.Droid.Resource.Layout.com_facebook_login_fragment;
+			global::Plugin.FacebookClient.Resource.Layout.com_facebook_smart_device_dialog_fragment = global::SocialMediaAuthentication.Droid.Resource.Layout.com_facebook_smart_device_dialog_fragment;
+			global::Plugin.FacebookClient.Resource.Layout.com_facebook_tooltip_bubble = global::SocialMediaAuthentication.Droid.Resource.Layout.com_facebook_tooltip_bubble;
+			global::Plugin.FacebookClient.Resource.Layout.messenger_button_send_blue_large = global::SocialMediaAuthentication.Droid.Resource.Layout.messenger_button_send_blue_large;
+			global::Plugin.FacebookClient.Resource.Layout.messenger_button_send_blue_round = global::SocialMediaAuthentication.Droid.Resource.Layout.messenger_button_send_blue_round;
+			global::Plugin.FacebookClient.Resource.Layout.messenger_button_send_blue_small = global::SocialMediaAuthentication.Droid.Resource.Layout.messenger_button_send_blue_small;
+			global::Plugin.FacebookClient.Resource.Layout.messenger_button_send_white_large = global::SocialMediaAuthentication.Droid.Resource.Layout.messenger_button_send_white_large;
+			global::Plugin.FacebookClient.Resource.Layout.messenger_button_send_white_round = global::SocialMediaAuthentication.Droid.Resource.Layout.messenger_button_send_white_round;
+			global::Plugin.FacebookClient.Resource.Layout.messenger_button_send_white_small = global::SocialMediaAuthentication.Droid.Resource.Layout.messenger_button_send_white_small;
+			global::Plugin.FacebookClient.Resource.Layout.notification_action = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_action;
+			global::Plugin.FacebookClient.Resource.Layout.notification_action_tombstone = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_action_tombstone;
+			global::Plugin.FacebookClient.Resource.Layout.notification_media_action = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_media_action;
+			global::Plugin.FacebookClient.Resource.Layout.notification_media_cancel_action = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_media_cancel_action;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_big_media = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_big_media;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_big_media_custom = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_big_media_custom;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_big_media_narrow = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_big_media_narrow;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_big_media_narrow_custom = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_big_media_narrow_custom;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_custom_big = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_custom_big;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_icon_group = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_icon_group;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_lines_media = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_lines_media;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_media = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_media;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_media_custom = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_media_custom;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_part_chronometer = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_part_chronometer;
+			global::Plugin.FacebookClient.Resource.Layout.notification_template_part_time = global::SocialMediaAuthentication.Droid.Resource.Layout.notification_template_part_time;
+			global::Plugin.FacebookClient.Resource.Layout.select_dialog_item_material = global::SocialMediaAuthentication.Droid.Resource.Layout.select_dialog_item_material;
+			global::Plugin.FacebookClient.Resource.Layout.select_dialog_multichoice_material = global::SocialMediaAuthentication.Droid.Resource.Layout.select_dialog_multichoice_material;
+			global::Plugin.FacebookClient.Resource.Layout.select_dialog_singlechoice_material = global::SocialMediaAuthentication.Droid.Resource.Layout.select_dialog_singlechoice_material;
+			global::Plugin.FacebookClient.Resource.Layout.support_simple_spinner_dropdown_item = global::SocialMediaAuthentication.Droid.Resource.Layout.support_simple_spinner_dropdown_item;
+			global::Plugin.FacebookClient.Resource.String.abc_action_bar_home_description = global::SocialMediaAuthentication.Droid.Resource.String.abc_action_bar_home_description;
+			global::Plugin.FacebookClient.Resource.String.abc_action_bar_up_description = global::SocialMediaAuthentication.Droid.Resource.String.abc_action_bar_up_description;
+			global::Plugin.FacebookClient.Resource.String.abc_action_menu_overflow_description = global::SocialMediaAuthentication.Droid.Resource.String.abc_action_menu_overflow_description;
+			global::Plugin.FacebookClient.Resource.String.abc_action_mode_done = global::SocialMediaAuthentication.Droid.Resource.String.abc_action_mode_done;
+			global::Plugin.FacebookClient.Resource.String.abc_activity_chooser_view_see_all = global::SocialMediaAuthentication.Droid.Resource.String.abc_activity_chooser_view_see_all;
+			global::Plugin.FacebookClient.Resource.String.abc_activitychooserview_choose_application = global::SocialMediaAuthentication.Droid.Resource.String.abc_activitychooserview_choose_application;
+			global::Plugin.FacebookClient.Resource.String.abc_capital_off = global::SocialMediaAuthentication.Droid.Resource.String.abc_capital_off;
+			global::Plugin.FacebookClient.Resource.String.abc_capital_on = global::SocialMediaAuthentication.Droid.Resource.String.abc_capital_on;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_body_1_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_body_1_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_body_2_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_body_2_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_button_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_button_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_caption_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_caption_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_display_1_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_display_1_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_display_2_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_display_2_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_display_3_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_display_3_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_display_4_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_display_4_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_headline_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_headline_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_menu_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_menu_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_subhead_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_subhead_material;
+			global::Plugin.FacebookClient.Resource.String.abc_font_family_title_material = global::SocialMediaAuthentication.Droid.Resource.String.abc_font_family_title_material;
+			global::Plugin.FacebookClient.Resource.String.abc_search_hint = global::SocialMediaAuthentication.Droid.Resource.String.abc_search_hint;
+			global::Plugin.FacebookClient.Resource.String.abc_searchview_description_clear = global::SocialMediaAuthentication.Droid.Resource.String.abc_searchview_description_clear;
+			global::Plugin.FacebookClient.Resource.String.abc_searchview_description_query = global::SocialMediaAuthentication.Droid.Resource.String.abc_searchview_description_query;
+			global::Plugin.FacebookClient.Resource.String.abc_searchview_description_search = global::SocialMediaAuthentication.Droid.Resource.String.abc_searchview_description_search;
+			global::Plugin.FacebookClient.Resource.String.abc_searchview_description_submit = global::SocialMediaAuthentication.Droid.Resource.String.abc_searchview_description_submit;
+			global::Plugin.FacebookClient.Resource.String.abc_searchview_description_voice = global::SocialMediaAuthentication.Droid.Resource.String.abc_searchview_description_voice;
+			global::Plugin.FacebookClient.Resource.String.abc_shareactionprovider_share_with = global::SocialMediaAuthentication.Droid.Resource.String.abc_shareactionprovider_share_with;
+			global::Plugin.FacebookClient.Resource.String.abc_shareactionprovider_share_with_application = global::SocialMediaAuthentication.Droid.Resource.String.abc_shareactionprovider_share_with_application;
+			global::Plugin.FacebookClient.Resource.String.abc_toolbar_collapse_description = global::SocialMediaAuthentication.Droid.Resource.String.abc_toolbar_collapse_description;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_device_auth_instructions = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_device_auth_instructions;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_image_download_unknown_error = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_image_download_unknown_error;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_internet_permission_error_message = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_internet_permission_error_message;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_internet_permission_error_title = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_internet_permission_error_title;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_like_button_liked = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_like_button_liked;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_like_button_not_liked = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_like_button_not_liked;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loading = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loading;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_cancel_action = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_cancel_action;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_log_in_button = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_log_in_button;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_log_in_button_continue = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_log_in_button_continue;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_log_in_button_long = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_log_in_button_long;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_log_out_action = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_log_out_action;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_log_out_button = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_log_out_button;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_logged_in_as = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_logged_in_as;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_logged_in_using_facebook = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_logged_in_using_facebook;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_loginview_logged_in_using_facebook_f1gender = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_loginview_logged_in_using_facebook_f1gender;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_send_button_text = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_send_button_text;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_share_button_text = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_share_button_text;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_smart_device_instructions = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_smart_device_instructions;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_smart_device_instructions_or = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_smart_device_instructions_or;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_smart_login_confirmation_cancel = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_smart_login_confirmation_cancel;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_smart_login_confirmation_continue_as = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_smart_login_confirmation_continue_as;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_smart_login_confirmation_title = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_smart_login_confirmation_title;
+			global::Plugin.FacebookClient.Resource.String.com_facebook_tooltip_default = global::SocialMediaAuthentication.Droid.Resource.String.com_facebook_tooltip_default;
+			global::Plugin.FacebookClient.Resource.String.messenger_send_button_text = global::SocialMediaAuthentication.Droid.Resource.String.messenger_send_button_text;
+			global::Plugin.FacebookClient.Resource.String.search_menu_title = global::SocialMediaAuthentication.Droid.Resource.String.search_menu_title;
+			global::Plugin.FacebookClient.Resource.String.status_bar_notification_info_overflow = global::SocialMediaAuthentication.Droid.Resource.String.status_bar_notification_info_overflow;
+			global::Plugin.FacebookClient.Resource.Style.AlertDialog_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.AlertDialog_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.AlertDialog_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.AlertDialog_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Animation_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Animation_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Animation_AppCompat_DropDownUp = global::SocialMediaAuthentication.Droid.Resource.Style.Animation_AppCompat_DropDownUp;
+			global::Plugin.FacebookClient.Resource.Style.Animation_AppCompat_Tooltip = global::SocialMediaAuthentication.Droid.Resource.Style.Animation_AppCompat_Tooltip;
+			global::Plugin.FacebookClient.Resource.Style.Base_AlertDialog_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_AlertDialog_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_AlertDialog_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_AlertDialog_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_Animation_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Animation_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_Animation_AppCompat_DropDownUp = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Animation_AppCompat_DropDownUp;
+			global::Plugin.FacebookClient.Resource.Style.Base_Animation_AppCompat_Tooltip = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Animation_AppCompat_Tooltip;
+			global::Plugin.FacebookClient.Resource.Style.Base_CardView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_CardView;
+			global::Plugin.FacebookClient.Resource.Style.Base_DialogWindowTitle_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_DialogWindowTitle_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_DialogWindowTitleBackground_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_DialogWindowTitleBackground_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Body1 = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body1;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Body2 = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Body2;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Button = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Button;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Caption = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Caption;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Display1 = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display1;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Display2 = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display2;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Display3 = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display3;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Display4 = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Display4;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Headline = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Headline;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Large = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Medium = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Menu = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Menu;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_SearchResult = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Subhead = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Title = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Tooltip = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Tooltip;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title = global::SocialMediaAuthentication.Droid.Resource.Style.Base_TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_CompactMenu = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_CompactMenu;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_FixedSize;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_FixedSize;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.FacebookClient.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dark = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.Base_ThemeOverlay_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_ThemeOverlay_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_V21_Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V21_Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_V21_Theme_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V21_Theme_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_V21_Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V21_Theme_AppCompat_Light_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V21_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_V22_Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V22_Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_V22_Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V22_Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_V23_Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V23_Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_V23_Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V23_Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_V26_Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V26_Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_V26_Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V26_Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_V26_Widget_AppCompat_Toolbar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V26_Widget_AppCompat_Toolbar;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Theme_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Theme_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Theme_AppCompat_Light_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Widget_AppCompat_EditText = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Widget_AppCompat_EditText;
+			global::Plugin.FacebookClient.Resource.Style.Base_V7_Widget_AppCompat_Toolbar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_V7_Widget_AppCompat_Toolbar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionButton = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActionMode = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActionMode;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ActivityChooserView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ActivityChooserView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Button = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Button;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Button_Borderless = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Button_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Button_Colored;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Button_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Button_Small;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ButtonBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_DrawerArrowToggle_Common;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_EditText = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_EditText;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ImageButton = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ImageButton;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ListMenuView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ListMenuView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ListPopupWindow = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ListPopupWindow;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ListView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ListView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ListView_DropDown = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ListView_DropDown;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ListView_Menu = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ListView_Menu;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_PopupMenu = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_PopupWindow = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_PopupWindow;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ProgressBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_RatingBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_RatingBar_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_RatingBar_Small;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_SearchView = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_SearchView;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_SeekBar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_SeekBar_Discrete;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Spinner = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Spinner;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Toolbar = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar;
+			global::Plugin.FacebookClient.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation = global::SocialMediaAuthentication.Droid.Resource.Style.Base_Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.FacebookClient.Resource.Style.CardView = global::SocialMediaAuthentication.Droid.Resource.Style.CardView;
+			global::Plugin.FacebookClient.Resource.Style.CardView_Dark = global::SocialMediaAuthentication.Droid.Resource.Style.CardView_Dark;
+			global::Plugin.FacebookClient.Resource.Style.CardView_Light = global::SocialMediaAuthentication.Droid.Resource.Style.CardView_Light;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton_Blue = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton_Blue;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton_Blue_Large = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton_Blue_Large;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton_Blue_Small = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton_Blue_Small;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton_White = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton_White;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton_White_Large = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton_White_Large;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButton_White_Small = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButton_White_Small;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText_Blue = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText_Blue;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText_Blue_Large = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText_Blue_Large;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText_Blue_Small = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText_Blue_Small;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText_White = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText_White;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText_White_Large = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText_White_Large;
+			global::Plugin.FacebookClient.Resource.Style.MessengerButtonText_White_Small = global::SocialMediaAuthentication.Droid.Resource.Style.MessengerButtonText_White_Small;
+			global::Plugin.FacebookClient.Resource.Style.Platform_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Platform_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Platform_ThemeOverlay_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Dark;
+			global::Plugin.FacebookClient.Resource.Style.Platform_ThemeOverlay_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_ThemeOverlay_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Platform_V21_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_V21_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Platform_V21_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_V21_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Platform_V25_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_V25_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Platform_V25_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_V25_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Platform_Widget_AppCompat_Spinner = global::SocialMediaAuthentication.Droid.Resource.Style.Platform_Widget_AppCompat_Spinner;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_DialogWindowTitle_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_ActionBar_TitleItem;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_DialogTitle_Icon;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_InternalGroup;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_PopupMenuItem_Text;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1 = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon1;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2 = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Icon2;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Query;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_Search_DropDown_Text;
+			global::Plugin.FacebookClient.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon = global::SocialMediaAuthentication.Droid.Resource.Style.RtlOverlay_Widget_AppCompat_SearchView_MagIcon;
+			global::Plugin.FacebookClient.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton = global::SocialMediaAuthentication.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton;
+			global::Plugin.FacebookClient.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.RtlUnderlay_Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Body1 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Body1;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Body2 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Body2;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Button = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Button;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Caption = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Caption;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Display1 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Display1;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Display2 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Display2;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Display3 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Display3;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Display4 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Display4;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Headline = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Headline;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Large = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Large;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Large_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Large_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Light_SearchResult_Title;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Large;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Light_Widget_PopupMenu_Small;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Medium = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Medium;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Medium_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Medium_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Menu = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Menu;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_SearchResult_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_SearchResult_Title;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Small = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Small;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Small_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Small_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Subhead = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Subhead;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Subhead_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Title;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Title_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Title_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Tooltip = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Tooltip;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Menu;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Subtitle_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionBar_Title_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Subtitle_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_ActionMode_Title_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_Button = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Borderless_Colored;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Colored;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Button_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_DropDownItem;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Header;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Large;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_PopupMenu_Small;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_Switch = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_Switch;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_AppCompat_Widget_TextView_SpinnerItem;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Info = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Info;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Info_Media = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Info_Media;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Line2 = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Line2_Media = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Line2_Media;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Media = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Media;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Time = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Time;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Time_Media = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Time_Media;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Title;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Compat_Notification_Title_Media = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Compat_Notification_Title_Media;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Widget_AppCompat_ExpandedMenu_Item;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Subtitle;
+			global::Plugin.FacebookClient.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title = global::SocialMediaAuthentication.Droid.Resource.Style.TextAppearance_Widget_AppCompat_Toolbar_Title;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_CompactMenu = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_CompactMenu;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight_DarkActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight_Dialog_MinWidth;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight_DialogWhenLarge;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DayNight_NoActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DayNight_NoActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Dialog_MinWidth = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Dialog_MinWidth;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_DialogWhenLarge = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_DialogWhenLarge;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light_DarkActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light_DarkActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light_Dialog_MinWidth;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light_DialogWhenLarge;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_Light_NoActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_Light_NoActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Theme_AppCompat_NoActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Theme_AppCompat_NoActionBar;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat_Dark = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat_Dark_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat_Dialog = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat_Dialog_Alert;
+			global::Plugin.FacebookClient.Resource.Style.ThemeOverlay_AppCompat_Light = global::SocialMediaAuthentication.Droid.Resource.Style.ThemeOverlay_AppCompat_Light;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionBar_Solid = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionBar_Solid;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionBar_TabBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionBar_TabText = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabText;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionBar_TabView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionBar_TabView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionButton = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionButton;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionButton_CloseMode = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionButton_CloseMode;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionButton_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionButton_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActionMode = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActionMode;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ActivityChooserView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ActivityChooserView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_AutoCompleteTextView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_AutoCompleteTextView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Button = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Button;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Button_Borderless = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Button_Borderless;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Button_Borderless_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Button_Borderless_Colored;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Button_ButtonBar_AlertDialog;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Button_Colored = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Button_Colored;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Button_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Button_Small;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ButtonBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ButtonBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ButtonBar_AlertDialog;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_CompoundButton_CheckBox;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_CompoundButton_RadioButton;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_CompoundButton_Switch = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_CompoundButton_Switch;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_DrawerArrowToggle = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_DrawerArrowToggle;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_DropDownItem_Spinner = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_DropDownItem_Spinner;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_EditText = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_EditText;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ImageButton = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ImageButton;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_Solid_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabBar_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabText_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionBar_TabView_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionButton = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_CloseMode;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionButton_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActionMode_Inverse;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ActivityChooserView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ActivityChooserView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_AutoCompleteTextView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_DropDownItem_Spinner;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ListPopupWindow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ListPopupWindow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_ListView_DropDown = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_ListView_DropDown;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_PopupMenu = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_PopupMenu_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_SearchView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_SearchView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Light_Spinner_DropDown_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ListMenuView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ListMenuView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ListPopupWindow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ListPopupWindow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ListView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ListView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ListView_DropDown = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ListView_DropDown;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ListView_Menu = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ListView_Menu;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_PopupMenu = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_PopupMenu;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_PopupMenu_Overflow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_PopupMenu_Overflow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_PopupWindow = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_PopupWindow;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ProgressBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ProgressBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_ProgressBar_Horizontal;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_RatingBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_RatingBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_RatingBar_Indicator = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_RatingBar_Indicator;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_RatingBar_Small = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_RatingBar_Small;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_SearchView = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_SearchView;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_SearchView_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_SearchView_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_SeekBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_SeekBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_SeekBar_Discrete = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_SeekBar_Discrete;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Spinner = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Spinner;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Spinner_DropDown = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Spinner_DropDown_ActionBar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Spinner_Underlined = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Spinner_Underlined;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_TextView_SpinnerItem = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_TextView_SpinnerItem;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Toolbar = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Toolbar;
+			global::Plugin.FacebookClient.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_AppCompat_Toolbar_Button_Navigation;
+			global::Plugin.FacebookClient.Resource.Style.Widget_Compat_NotificationActionContainer = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_Compat_NotificationActionContainer;
+			global::Plugin.FacebookClient.Resource.Style.Widget_Compat_NotificationActionText = global::SocialMediaAuthentication.Droid.Resource.Style.Widget_Compat_NotificationActionText;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_activity_theme = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_activity_theme;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_auth_dialog = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_auth_dialog;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_auth_dialog_instructions_textview = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_auth_dialog_instructions_textview;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_button = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_button;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_button_like = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_button_like;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_button_send = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_button_send;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_button_share = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_button_share;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_loginview_default_style = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_loginview_default_style;
+			global::Plugin.FacebookClient.Resource.Style.com_facebook_loginview_silver_style = global::SocialMediaAuthentication.Droid.Resource.Style.com_facebook_loginview_silver_style;
+			global::Plugin.FacebookClient.Resource.Style.tooltip_bubble_text = global::SocialMediaAuthentication.Droid.Resource.Style.tooltip_bubble_text;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_background = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_background;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_backgroundSplit = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_backgroundSplit;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_backgroundStacked = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_backgroundStacked;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_contentInsetEnd = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_contentInsetEnd;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_contentInsetEndWithActions = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_contentInsetEndWithActions;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_contentInsetLeft = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_contentInsetLeft;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_contentInsetRight = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_contentInsetRight;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_contentInsetStart = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_contentInsetStart;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_contentInsetStartWithNavigation = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_contentInsetStartWithNavigation;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_customNavigationLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_customNavigationLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_displayOptions = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_displayOptions;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_divider = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_divider;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_elevation = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_elevation;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_height = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_height;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_hideOnContentScroll = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_hideOnContentScroll;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_homeAsUpIndicator = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_homeAsUpIndicator;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_homeLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_homeLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_icon = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_icon;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_indeterminateProgressStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_indeterminateProgressStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_itemPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_itemPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_logo = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_logo;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_navigationMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_navigationMode;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_popupTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_popupTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_progressBarPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_progressBarPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_progressBarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_progressBarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_subtitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_subtitle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_subtitleTextStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_subtitleTextStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_title = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_title;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBar_titleTextStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBar_titleTextStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBarLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBarLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionBarLayout_android_layout_gravity = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionBarLayout_android_layout_gravity;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMenuItemView = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMenuItemView;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMenuItemView_android_minWidth = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMenuItemView_android_minWidth;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMenuView = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMenuView;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode_background = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode_background;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode_backgroundSplit = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode_backgroundSplit;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode_closeItemLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode_closeItemLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode_height = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode_height;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode_subtitleTextStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode_subtitleTextStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActionMode_titleTextStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActionMode_titleTextStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.ActivityChooserView = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActivityChooserView;
+			global::Plugin.FacebookClient.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActivityChooserView_expandActivityOverflowButtonDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.ActivityChooserView_initialActivityCount = global::SocialMediaAuthentication.Droid.Resource.Styleable.ActivityChooserView_initialActivityCount;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_android_layout = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_android_layout;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_buttonPanelSideLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_buttonPanelSideLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_listItemLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_listItemLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_listLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_listLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_multiChoiceItemLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_multiChoiceItemLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_showTitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_showTitle;
+			global::Plugin.FacebookClient.Resource.Styleable.AlertDialog_singleChoiceItemLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.AlertDialog_singleChoiceItemLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatImageView = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatImageView;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatImageView_android_src = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatImageView_android_src;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatImageView_srcCompat = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatImageView_srcCompat;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatImageView_tint = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatImageView_tint;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatImageView_tintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatImageView_tintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatSeekBar = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatSeekBar;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatSeekBar_android_thumb = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatSeekBar_android_thumb;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatSeekBar_tickMark = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatSeekBar_tickMark;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatSeekBar_tickMarkTint = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTint;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatSeekBar_tickMarkTintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_drawableBottom = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableBottom;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_drawableEnd = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableEnd;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_drawableLeft = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableLeft;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_drawableRight = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableRight;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_drawableStart = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableStart;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_drawableTop = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_drawableTop;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextHelper_android_textAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextHelper_android_textAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_android_textAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_android_textAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_autoSizeMaxTextSize;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_autoSizeMinTextSize;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_autoSizePresetSizes = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_autoSizePresetSizes;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_autoSizeStepGranularity;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_autoSizeTextType = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_autoSizeTextType;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_fontFamily = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_fontFamily;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTextView_textAllCaps = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTextView_textAllCaps;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarDivider = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarDivider;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarItemBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarItemBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarPopupTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarPopupTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarSize = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarSize;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarSplitStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarSplitStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarTabBarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarTabStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarTabStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarTabTextStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionBarWidgetTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionDropDownStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionDropDownStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionMenuTextColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionMenuTextColor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeCloseDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeCopyDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeCutDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeCutDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeFindDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeFindDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModePasteDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModePasteDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModePopupWindowStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeSelectAllDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeShareDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeShareDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeSplitBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeSplitBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionModeWebSearchDrawable;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionOverflowButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_actionOverflowMenuStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_activityChooserViewStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_activityChooserViewStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_alertDialogButtonGroupStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_alertDialogCenterButtons;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_alertDialogStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_alertDialogStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_alertDialogTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_alertDialogTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_android_windowAnimationStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_android_windowIsFloating = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_android_windowIsFloating;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_autoCompleteTextViewStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_borderlessButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_borderlessButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonBarButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonBarNegativeButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonBarNeutralButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonBarPositiveButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonBarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonBarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_buttonStyleSmall = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_buttonStyleSmall;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_checkboxStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_checkboxStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_checkedTextViewStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_checkedTextViewStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorAccent = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorAccent;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorBackgroundFloating = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorBackgroundFloating;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorButtonNormal = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorButtonNormal;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorControlActivated = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorControlActivated;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorControlHighlight = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorControlHighlight;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorControlNormal = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorControlNormal;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorError = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorError;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorPrimary = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorPrimary;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorPrimaryDark = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorPrimaryDark;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_colorSwitchThumbNormal;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_controlBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_controlBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_dialogPreferredPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_dialogPreferredPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_dialogTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_dialogTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_dividerHorizontal = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_dividerHorizontal;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_dividerVertical = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_dividerVertical;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_dropDownListViewStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_dropDownListViewStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_dropdownListPreferredItemHeight;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_editTextBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_editTextBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_editTextColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_editTextColor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_editTextStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_editTextStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_homeAsUpIndicator = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_homeAsUpIndicator;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_imageButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_imageButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listChoiceBackgroundIndicator;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listDividerAlertDialog = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listDividerAlertDialog;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listMenuViewStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listMenuViewStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listPopupWindowStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listPopupWindowStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listPreferredItemHeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeight;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightLarge;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemHeightSmall;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingLeft;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_listPreferredItemPaddingRight;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_panelBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_panelBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_panelMenuListTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_panelMenuListTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_panelMenuListWidth = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_panelMenuListWidth;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_popupMenuStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_popupMenuStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_popupWindowStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_popupWindowStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_radioButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_radioButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_ratingBarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleIndicator;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_ratingBarStyleSmall;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_searchViewStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_searchViewStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_seekBarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_seekBarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_selectableItemBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_selectableItemBackgroundBorderless;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_spinnerDropDownItemStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_spinnerStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_spinnerStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_switchStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_switchStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceLargePopupMenu;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceListItem = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItem;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSecondary;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceListItemSmall;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearancePopupMenuHeader;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultSubtitle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSearchResultTitle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textAppearanceSmallPopupMenu;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textColorAlertDialogListItem;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_textColorSearchUrl = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_textColorSearchUrl;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_toolbarNavigationButtonStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_toolbarStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_toolbarStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_tooltipForegroundColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_tooltipForegroundColor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_tooltipFrameBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_tooltipFrameBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowActionBar = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowActionBar;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowActionBarOverlay = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowActionBarOverlay;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowActionModeOverlay = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowActionModeOverlay;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMajor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowFixedHeightMinor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMajor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowFixedWidthMinor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowMinWidthMajor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMajor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowMinWidthMinor = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowMinWidthMinor;
+			global::Plugin.FacebookClient.Resource.Styleable.AppCompatTheme_windowNoTitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.AppCompatTheme_windowNoTitle;
+			global::Plugin.FacebookClient.Resource.Styleable.ButtonBarLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.ButtonBarLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.ButtonBarLayout_allowStacking = global::SocialMediaAuthentication.Droid.Resource.Styleable.ButtonBarLayout_allowStacking;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_android_minHeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_android_minHeight;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_android_minWidth = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_android_minWidth;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_cardBackgroundColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_cardBackgroundColor;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_cardCornerRadius = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_cardCornerRadius;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_cardElevation = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_cardElevation;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_cardMaxElevation = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_cardMaxElevation;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_cardPreventCornerOverlap = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_cardPreventCornerOverlap;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_cardUseCompatPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_cardUseCompatPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_contentPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_contentPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_contentPaddingBottom = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_contentPaddingBottom;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_contentPaddingLeft = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_contentPaddingLeft;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_contentPaddingRight = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_contentPaddingRight;
+			global::Plugin.FacebookClient.Resource.Styleable.CardView_contentPaddingTop = global::SocialMediaAuthentication.Droid.Resource.Styleable.CardView_contentPaddingTop;
+			global::Plugin.FacebookClient.Resource.Styleable.ColorStateListItem = global::SocialMediaAuthentication.Droid.Resource.Styleable.ColorStateListItem;
+			global::Plugin.FacebookClient.Resource.Styleable.ColorStateListItem_alpha = global::SocialMediaAuthentication.Droid.Resource.Styleable.ColorStateListItem_alpha;
+			global::Plugin.FacebookClient.Resource.Styleable.ColorStateListItem_android_alpha = global::SocialMediaAuthentication.Droid.Resource.Styleable.ColorStateListItem_android_alpha;
+			global::Plugin.FacebookClient.Resource.Styleable.ColorStateListItem_android_color = global::SocialMediaAuthentication.Droid.Resource.Styleable.ColorStateListItem_android_color;
+			global::Plugin.FacebookClient.Resource.Styleable.CompoundButton = global::SocialMediaAuthentication.Droid.Resource.Styleable.CompoundButton;
+			global::Plugin.FacebookClient.Resource.Styleable.CompoundButton_android_button = global::SocialMediaAuthentication.Droid.Resource.Styleable.CompoundButton_android_button;
+			global::Plugin.FacebookClient.Resource.Styleable.CompoundButton_buttonTint = global::SocialMediaAuthentication.Droid.Resource.Styleable.CompoundButton_buttonTint;
+			global::Plugin.FacebookClient.Resource.Styleable.CompoundButton_buttonTintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.CompoundButton_buttonTintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_arrowHeadLength = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_arrowHeadLength;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_arrowShaftLength = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_arrowShaftLength;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_barLength = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_barLength;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_color = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_color;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_drawableSize = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_drawableSize;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_gapBetweenBars = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_gapBetweenBars;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_spinBars = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_spinBars;
+			global::Plugin.FacebookClient.Resource.Styleable.DrawerArrowToggle_thickness = global::SocialMediaAuthentication.Droid.Resource.Styleable.DrawerArrowToggle_thickness;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily_fontProviderAuthority = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily_fontProviderAuthority;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily_fontProviderCerts = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily_fontProviderCerts;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily_fontProviderFetchStrategy = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily_fontProviderFetchStrategy;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily_fontProviderFetchTimeout = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily_fontProviderFetchTimeout;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily_fontProviderPackage = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily_fontProviderPackage;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamily_fontProviderQuery = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamily_fontProviderQuery;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont_android_font = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont_android_font;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont_android_fontStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont_android_fontStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont_android_fontWeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont_android_fontWeight;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont_font = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont_font;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont_fontStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont_fontStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.FontFamilyFont_fontWeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.FontFamilyFont_fontWeight;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_android_baselineAligned = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAligned;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_android_baselineAlignedChildIndex;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_android_gravity = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_android_gravity;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_android_orientation = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_android_orientation;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_android_weightSum = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_android_weightSum;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_divider = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_divider;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_dividerPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_dividerPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_measureWithLargestChild;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_showDividers = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_showDividers;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_Layout = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_Layout;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_gravity;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_height;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_weight;
+			global::Plugin.FacebookClient.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width = global::SocialMediaAuthentication.Droid.Resource.Styleable.LinearLayoutCompat_Layout_android_layout_width;
+			global::Plugin.FacebookClient.Resource.Styleable.ListPopupWindow = global::SocialMediaAuthentication.Droid.Resource.Styleable.ListPopupWindow;
+			global::Plugin.FacebookClient.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset = global::SocialMediaAuthentication.Droid.Resource.Styleable.ListPopupWindow_android_dropDownHorizontalOffset;
+			global::Plugin.FacebookClient.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset = global::SocialMediaAuthentication.Droid.Resource.Styleable.ListPopupWindow_android_dropDownVerticalOffset;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup_android_checkableBehavior = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup_android_checkableBehavior;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup_android_enabled = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup_android_enabled;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup_android_id = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup_android_id;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup_android_menuCategory = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup_android_menuCategory;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup_android_orderInCategory = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup_android_orderInCategory;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuGroup_android_visible = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuGroup_android_visible;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_actionLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_actionLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_actionProviderClass = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_actionProviderClass;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_actionViewClass = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_actionViewClass;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_alphabeticModifiers = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_alphabeticModifiers;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_alphabeticShortcut = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_alphabeticShortcut;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_checkable = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_checkable;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_checked = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_checked;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_enabled = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_enabled;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_icon = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_icon;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_id = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_id;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_menuCategory = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_menuCategory;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_numericShortcut = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_numericShortcut;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_onClick = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_onClick;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_orderInCategory = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_orderInCategory;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_title = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_title;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_titleCondensed = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_titleCondensed;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_android_visible = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_android_visible;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_contentDescription = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_contentDescription;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_iconTint = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_iconTint;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_iconTintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_iconTintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_numericModifiers = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_numericModifiers;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_showAsAction = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_showAsAction;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuItem_tooltipText = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuItem_tooltipText;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_headerBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_headerBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_horizontalDivider = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_horizontalDivider;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_itemBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_itemBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_itemIconDisabledAlpha = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_itemIconDisabledAlpha;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_itemTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_itemTextAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_verticalDivider = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_verticalDivider;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_android_windowAnimationStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_android_windowAnimationStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_preserveIconSpacing = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_preserveIconSpacing;
+			global::Plugin.FacebookClient.Resource.Styleable.MenuView_subMenuArrow = global::SocialMediaAuthentication.Droid.Resource.Styleable.MenuView_subMenuArrow;
+			global::Plugin.FacebookClient.Resource.Styleable.PopupWindow = global::SocialMediaAuthentication.Droid.Resource.Styleable.PopupWindow;
+			global::Plugin.FacebookClient.Resource.Styleable.PopupWindow_android_popupAnimationStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.PopupWindow_android_popupAnimationStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.PopupWindow_android_popupBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.PopupWindow_android_popupBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.PopupWindow_overlapAnchor = global::SocialMediaAuthentication.Droid.Resource.Styleable.PopupWindow_overlapAnchor;
+			global::Plugin.FacebookClient.Resource.Styleable.PopupWindowBackgroundState = global::SocialMediaAuthentication.Droid.Resource.Styleable.PopupWindowBackgroundState;
+			global::Plugin.FacebookClient.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor = global::SocialMediaAuthentication.Droid.Resource.Styleable.PopupWindowBackgroundState_state_above_anchor;
+			global::Plugin.FacebookClient.Resource.Styleable.RecycleListView = global::SocialMediaAuthentication.Droid.Resource.Styleable.RecycleListView;
+			global::Plugin.FacebookClient.Resource.Styleable.RecycleListView_paddingBottomNoButtons = global::SocialMediaAuthentication.Droid.Resource.Styleable.RecycleListView_paddingBottomNoButtons;
+			global::Plugin.FacebookClient.Resource.Styleable.RecycleListView_paddingTopNoTitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.RecycleListView_paddingTopNoTitle;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_android_focusable = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_android_focusable;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_android_imeOptions = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_android_imeOptions;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_android_inputType = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_android_inputType;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_android_maxWidth = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_android_maxWidth;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_closeIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_closeIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_commitIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_commitIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_defaultQueryHint = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_defaultQueryHint;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_goIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_goIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_iconifiedByDefault = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_iconifiedByDefault;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_layout = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_layout;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_queryBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_queryBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_queryHint = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_queryHint;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_searchHintIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_searchHintIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_searchIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_searchIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_submitBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_submitBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_suggestionRowLayout = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_suggestionRowLayout;
+			global::Plugin.FacebookClient.Resource.Styleable.SearchView_voiceIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.SearchView_voiceIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.Spinner = global::SocialMediaAuthentication.Droid.Resource.Styleable.Spinner;
+			global::Plugin.FacebookClient.Resource.Styleable.Spinner_android_dropDownWidth = global::SocialMediaAuthentication.Droid.Resource.Styleable.Spinner_android_dropDownWidth;
+			global::Plugin.FacebookClient.Resource.Styleable.Spinner_android_entries = global::SocialMediaAuthentication.Droid.Resource.Styleable.Spinner_android_entries;
+			global::Plugin.FacebookClient.Resource.Styleable.Spinner_android_popupBackground = global::SocialMediaAuthentication.Droid.Resource.Styleable.Spinner_android_popupBackground;
+			global::Plugin.FacebookClient.Resource.Styleable.Spinner_android_prompt = global::SocialMediaAuthentication.Droid.Resource.Styleable.Spinner_android_prompt;
+			global::Plugin.FacebookClient.Resource.Styleable.Spinner_popupTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.Spinner_popupTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_android_textOff = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_android_textOff;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_android_textOn = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_android_textOn;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_android_thumb = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_android_thumb;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_showText = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_showText;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_splitTrack = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_splitTrack;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_switchMinWidth = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_switchMinWidth;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_switchPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_switchPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_switchTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_switchTextAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_thumbTextPadding = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_thumbTextPadding;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_thumbTint = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_thumbTint;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_thumbTintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_thumbTintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_track = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_track;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_trackTint = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_trackTint;
+			global::Plugin.FacebookClient.Resource.Styleable.SwitchCompat_trackTintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.SwitchCompat_trackTintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_fontFamily = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_fontFamily;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_shadowColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_shadowColor;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_shadowDx = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_shadowDx;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_shadowDy = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_shadowDy;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_shadowRadius = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_shadowRadius;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_textColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_textColor;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_textColorHint = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_textColorHint;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_textColorLink = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_textColorLink;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_textSize = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_textSize;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_textStyle = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_textStyle;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_android_typeface = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_android_typeface;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_fontFamily = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_fontFamily;
+			global::Plugin.FacebookClient.Resource.Styleable.TextAppearance_textAllCaps = global::SocialMediaAuthentication.Droid.Resource.Styleable.TextAppearance_textAllCaps;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_android_gravity = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_android_gravity;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_android_minHeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_android_minHeight;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_buttonGravity = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_buttonGravity;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_collapseContentDescription = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_collapseContentDescription;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_collapseIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_collapseIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_contentInsetEnd = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_contentInsetEnd;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_contentInsetEndWithActions = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_contentInsetEndWithActions;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_contentInsetLeft = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_contentInsetLeft;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_contentInsetRight = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_contentInsetRight;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_contentInsetStart = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_contentInsetStart;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_contentInsetStartWithNavigation = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_contentInsetStartWithNavigation;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_logo = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_logo;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_logoDescription = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_logoDescription;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_maxButtonHeight = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_maxButtonHeight;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_navigationContentDescription = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_navigationContentDescription;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_navigationIcon = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_navigationIcon;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_popupTheme = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_popupTheme;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_subtitle = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_subtitle;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_subtitleTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_subtitleTextAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_subtitleTextColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_subtitleTextColor;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_title = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_title;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleMargin = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleMargin;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleMarginBottom = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleMarginBottom;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleMarginEnd = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleMarginEnd;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleMarginStart = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleMarginStart;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleMarginTop = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleMarginTop;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleMargins = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleMargins;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleTextAppearance = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleTextAppearance;
+			global::Plugin.FacebookClient.Resource.Styleable.Toolbar_titleTextColor = global::SocialMediaAuthentication.Droid.Resource.Styleable.Toolbar_titleTextColor;
+			global::Plugin.FacebookClient.Resource.Styleable.View = global::SocialMediaAuthentication.Droid.Resource.Styleable.View;
+			global::Plugin.FacebookClient.Resource.Styleable.View_android_focusable = global::SocialMediaAuthentication.Droid.Resource.Styleable.View_android_focusable;
+			global::Plugin.FacebookClient.Resource.Styleable.View_android_theme = global::SocialMediaAuthentication.Droid.Resource.Styleable.View_android_theme;
+			global::Plugin.FacebookClient.Resource.Styleable.View_paddingEnd = global::SocialMediaAuthentication.Droid.Resource.Styleable.View_paddingEnd;
+			global::Plugin.FacebookClient.Resource.Styleable.View_paddingStart = global::SocialMediaAuthentication.Droid.Resource.Styleable.View_paddingStart;
+			global::Plugin.FacebookClient.Resource.Styleable.View_theme = global::SocialMediaAuthentication.Droid.Resource.Styleable.View_theme;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewBackgroundHelper = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewBackgroundHelper;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewBackgroundHelper_android_background = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewBackgroundHelper_android_background;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewBackgroundHelper_backgroundTint = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTint;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewBackgroundHelper_backgroundTintMode;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewStubCompat = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewStubCompat;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewStubCompat_android_id = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewStubCompat_android_id;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewStubCompat_android_inflatedId = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewStubCompat_android_inflatedId;
+			global::Plugin.FacebookClient.Resource.Styleable.ViewStubCompat_android_layout = global::SocialMediaAuthentication.Droid.Resource.Styleable.ViewStubCompat_android_layout;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view_com_facebook_auxiliary_view_position = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view_com_facebook_auxiliary_view_position;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view_com_facebook_foreground_color = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view_com_facebook_foreground_color;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view_com_facebook_horizontal_alignment = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view_com_facebook_horizontal_alignment;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view_com_facebook_object_id = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view_com_facebook_object_id;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view_com_facebook_object_type = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view_com_facebook_object_type;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_like_view_com_facebook_style = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_like_view_com_facebook_style;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_login_view = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_login_view;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_login_view_com_facebook_confirm_logout = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_login_view_com_facebook_confirm_logout;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_login_view_com_facebook_login_text = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_login_view_com_facebook_login_text;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_login_view_com_facebook_logout_text = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_login_view_com_facebook_logout_text;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_login_view_com_facebook_tooltip_mode = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_login_view_com_facebook_tooltip_mode;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_profile_picture_view = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_profile_picture_view;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_profile_picture_view_com_facebook_is_cropped = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_profile_picture_view_com_facebook_is_cropped;
+			global::Plugin.FacebookClient.Resource.Styleable.com_facebook_profile_picture_view_com_facebook_preset_size = global::SocialMediaAuthentication.Droid.Resource.Styleable.com_facebook_profile_picture_view_com_facebook_preset_size;
 			global::Xamarin.Auth.Resource.Animation.slide_in_right = global::SocialMediaAuthentication.Droid.Resource.Animation.slide_in_right;
 			global::Xamarin.Auth.Resource.Animation.slide_out_left = global::SocialMediaAuthentication.Droid.Resource.Animation.slide_out_left;
 			global::Xamarin.Auth.Resource.Attribute.alpha = global::SocialMediaAuthentication.Droid.Resource.Attribute.alpha;
@@ -8296,134 +10026,134 @@ namespace SocialMediaAuthentication.Droid
 		public partial class String
 		{
 			
-			// aapt resource value: 0x7f0b0031
-			public const int abc_action_bar_home_description = 2131427377;
-			
 			// aapt resource value: 0x7f0b0032
-			public const int abc_action_bar_up_description = 2131427378;
+			public const int abc_action_bar_home_description = 2131427378;
 			
 			// aapt resource value: 0x7f0b0033
-			public const int abc_action_menu_overflow_description = 2131427379;
+			public const int abc_action_bar_up_description = 2131427379;
 			
 			// aapt resource value: 0x7f0b0034
-			public const int abc_action_mode_done = 2131427380;
+			public const int abc_action_menu_overflow_description = 2131427380;
 			
 			// aapt resource value: 0x7f0b0035
-			public const int abc_activity_chooser_view_see_all = 2131427381;
+			public const int abc_action_mode_done = 2131427381;
 			
 			// aapt resource value: 0x7f0b0036
-			public const int abc_activitychooserview_choose_application = 2131427382;
+			public const int abc_activity_chooser_view_see_all = 2131427382;
 			
 			// aapt resource value: 0x7f0b0037
-			public const int abc_capital_off = 2131427383;
+			public const int abc_activitychooserview_choose_application = 2131427383;
 			
 			// aapt resource value: 0x7f0b0038
-			public const int abc_capital_on = 2131427384;
-			
-			// aapt resource value: 0x7f0b004d
-			public const int abc_font_family_body_1_material = 2131427405;
-			
-			// aapt resource value: 0x7f0b004e
-			public const int abc_font_family_body_2_material = 2131427406;
-			
-			// aapt resource value: 0x7f0b004f
-			public const int abc_font_family_button_material = 2131427407;
-			
-			// aapt resource value: 0x7f0b0050
-			public const int abc_font_family_caption_material = 2131427408;
-			
-			// aapt resource value: 0x7f0b0051
-			public const int abc_font_family_display_1_material = 2131427409;
-			
-			// aapt resource value: 0x7f0b0052
-			public const int abc_font_family_display_2_material = 2131427410;
-			
-			// aapt resource value: 0x7f0b0053
-			public const int abc_font_family_display_3_material = 2131427411;
-			
-			// aapt resource value: 0x7f0b0054
-			public const int abc_font_family_display_4_material = 2131427412;
-			
-			// aapt resource value: 0x7f0b0055
-			public const int abc_font_family_headline_material = 2131427413;
-			
-			// aapt resource value: 0x7f0b0056
-			public const int abc_font_family_menu_material = 2131427414;
-			
-			// aapt resource value: 0x7f0b0057
-			public const int abc_font_family_subhead_material = 2131427415;
-			
-			// aapt resource value: 0x7f0b0058
-			public const int abc_font_family_title_material = 2131427416;
+			public const int abc_capital_off = 2131427384;
 			
 			// aapt resource value: 0x7f0b0039
-			public const int abc_menu_alt_shortcut_label = 2131427385;
+			public const int abc_capital_on = 2131427385;
 			
-			// aapt resource value: 0x7f0b003a
-			public const int abc_menu_ctrl_shortcut_label = 2131427386;
+			// aapt resource value: 0x7f0b004e
+			public const int abc_font_family_body_1_material = 2131427406;
 			
-			// aapt resource value: 0x7f0b003b
-			public const int abc_menu_delete_shortcut_label = 2131427387;
+			// aapt resource value: 0x7f0b004f
+			public const int abc_font_family_body_2_material = 2131427407;
 			
-			// aapt resource value: 0x7f0b003c
-			public const int abc_menu_enter_shortcut_label = 2131427388;
+			// aapt resource value: 0x7f0b0050
+			public const int abc_font_family_button_material = 2131427408;
 			
-			// aapt resource value: 0x7f0b003d
-			public const int abc_menu_function_shortcut_label = 2131427389;
+			// aapt resource value: 0x7f0b0051
+			public const int abc_font_family_caption_material = 2131427409;
 			
-			// aapt resource value: 0x7f0b003e
-			public const int abc_menu_meta_shortcut_label = 2131427390;
+			// aapt resource value: 0x7f0b0052
+			public const int abc_font_family_display_1_material = 2131427410;
 			
-			// aapt resource value: 0x7f0b003f
-			public const int abc_menu_shift_shortcut_label = 2131427391;
+			// aapt resource value: 0x7f0b0053
+			public const int abc_font_family_display_2_material = 2131427411;
 			
-			// aapt resource value: 0x7f0b0040
-			public const int abc_menu_space_shortcut_label = 2131427392;
+			// aapt resource value: 0x7f0b0054
+			public const int abc_font_family_display_3_material = 2131427412;
 			
-			// aapt resource value: 0x7f0b0041
-			public const int abc_menu_sym_shortcut_label = 2131427393;
+			// aapt resource value: 0x7f0b0055
+			public const int abc_font_family_display_4_material = 2131427413;
 			
-			// aapt resource value: 0x7f0b0042
-			public const int abc_prepend_shortcut_label = 2131427394;
+			// aapt resource value: 0x7f0b0056
+			public const int abc_font_family_headline_material = 2131427414;
 			
-			// aapt resource value: 0x7f0b0043
-			public const int abc_search_hint = 2131427395;
+			// aapt resource value: 0x7f0b0057
+			public const int abc_font_family_menu_material = 2131427415;
 			
-			// aapt resource value: 0x7f0b0044
-			public const int abc_searchview_description_clear = 2131427396;
-			
-			// aapt resource value: 0x7f0b0045
-			public const int abc_searchview_description_query = 2131427397;
-			
-			// aapt resource value: 0x7f0b0046
-			public const int abc_searchview_description_search = 2131427398;
-			
-			// aapt resource value: 0x7f0b0047
-			public const int abc_searchview_description_submit = 2131427399;
-			
-			// aapt resource value: 0x7f0b0048
-			public const int abc_searchview_description_voice = 2131427400;
-			
-			// aapt resource value: 0x7f0b0049
-			public const int abc_shareactionprovider_share_with = 2131427401;
-			
-			// aapt resource value: 0x7f0b004a
-			public const int abc_shareactionprovider_share_with_application = 2131427402;
-			
-			// aapt resource value: 0x7f0b004b
-			public const int abc_toolbar_collapse_description = 2131427403;
+			// aapt resource value: 0x7f0b0058
+			public const int abc_font_family_subhead_material = 2131427416;
 			
 			// aapt resource value: 0x7f0b0059
-			public const int appbar_scrolling_view_behavior = 2131427417;
+			public const int abc_font_family_title_material = 2131427417;
+			
+			// aapt resource value: 0x7f0b003a
+			public const int abc_menu_alt_shortcut_label = 2131427386;
+			
+			// aapt resource value: 0x7f0b003b
+			public const int abc_menu_ctrl_shortcut_label = 2131427387;
+			
+			// aapt resource value: 0x7f0b003c
+			public const int abc_menu_delete_shortcut_label = 2131427388;
+			
+			// aapt resource value: 0x7f0b003d
+			public const int abc_menu_enter_shortcut_label = 2131427389;
+			
+			// aapt resource value: 0x7f0b003e
+			public const int abc_menu_function_shortcut_label = 2131427390;
+			
+			// aapt resource value: 0x7f0b003f
+			public const int abc_menu_meta_shortcut_label = 2131427391;
+			
+			// aapt resource value: 0x7f0b0040
+			public const int abc_menu_shift_shortcut_label = 2131427392;
+			
+			// aapt resource value: 0x7f0b0041
+			public const int abc_menu_space_shortcut_label = 2131427393;
+			
+			// aapt resource value: 0x7f0b0042
+			public const int abc_menu_sym_shortcut_label = 2131427394;
+			
+			// aapt resource value: 0x7f0b0043
+			public const int abc_prepend_shortcut_label = 2131427395;
+			
+			// aapt resource value: 0x7f0b0044
+			public const int abc_search_hint = 2131427396;
+			
+			// aapt resource value: 0x7f0b0045
+			public const int abc_searchview_description_clear = 2131427397;
+			
+			// aapt resource value: 0x7f0b0046
+			public const int abc_searchview_description_query = 2131427398;
+			
+			// aapt resource value: 0x7f0b0047
+			public const int abc_searchview_description_search = 2131427399;
+			
+			// aapt resource value: 0x7f0b0048
+			public const int abc_searchview_description_submit = 2131427400;
+			
+			// aapt resource value: 0x7f0b0049
+			public const int abc_searchview_description_voice = 2131427401;
+			
+			// aapt resource value: 0x7f0b004a
+			public const int abc_shareactionprovider_share_with = 2131427402;
+			
+			// aapt resource value: 0x7f0b004b
+			public const int abc_shareactionprovider_share_with_application = 2131427403;
+			
+			// aapt resource value: 0x7f0b004c
+			public const int abc_toolbar_collapse_description = 2131427404;
 			
 			// aapt resource value: 0x7f0b005a
-			public const int bottom_sheet_behavior = 2131427418;
+			public const int appbar_scrolling_view_behavior = 2131427418;
 			
 			// aapt resource value: 0x7f0b005b
-			public const int character_counter_content_description = 2131427419;
+			public const int bottom_sheet_behavior = 2131427419;
 			
 			// aapt resource value: 0x7f0b005c
-			public const int character_counter_pattern = 2131427420;
+			public const int character_counter_content_description = 2131427420;
+			
+			// aapt resource value: 0x7f0b005d
+			public const int character_counter_pattern = 2131427421;
 			
 			// aapt resource value: 0x7f0b0001
 			public const int com_facebook_device_auth_instructions = 2131427329;
@@ -8470,6 +10200,9 @@ namespace SocialMediaAuthentication.Droid
 			// aapt resource value: 0x7f0b000f
 			public const int com_facebook_loginview_logged_in_using_facebook = 2131427343;
 			
+			// aapt resource value: 0x7f0b0018
+			public const int com_facebook_loginview_logged_in_using_facebook_f1gender = 2131427352;
+			
 			// aapt resource value: 0x7f0b0010
 			public const int com_facebook_send_button_text = 2131427344;
 			
@@ -8494,128 +10227,128 @@ namespace SocialMediaAuthentication.Droid
 			// aapt resource value: 0x7f0b0017
 			public const int com_facebook_tooltip_default = 2131427351;
 			
-			// aapt resource value: 0x7f0b005d
-			public const int fab_transformation_scrim_behavior = 2131427421;
-			
 			// aapt resource value: 0x7f0b005e
-			public const int fab_transformation_sheet_behavior = 2131427422;
-			
-			// aapt resource value: 0x7f0b0069
-			public const int facebook_app_id = 2131427433;
-			
-			// aapt resource value: 0x7f0b0068
-			public const int facebook_app_name = 2131427432;
-			
-			// aapt resource value: 0x7f0b006a
-			public const int fb_login_protocol_scheme = 2131427434;
+			public const int fab_transformation_scrim_behavior = 2131427422;
 			
 			// aapt resource value: 0x7f0b005f
-			public const int hide_bottom_view_on_scroll_behavior = 2131427423;
+			public const int fab_transformation_sheet_behavior = 2131427423;
 			
-			// aapt resource value: 0x7f0b0067
-			public const int library_name = 2131427431;
+			// aapt resource value: 0x7f0b006a
+			public const int facebook_app_id = 2131427434;
+			
+			// aapt resource value: 0x7f0b0069
+			public const int facebook_app_name = 2131427433;
+			
+			// aapt resource value: 0x7f0b006b
+			public const int fb_login_protocol_scheme = 2131427435;
+			
+			// aapt resource value: 0x7f0b0060
+			public const int hide_bottom_view_on_scroll_behavior = 2131427424;
+			
+			// aapt resource value: 0x7f0b0068
+			public const int library_name = 2131427432;
 			
 			// aapt resource value: 0x7f0b0000
 			public const int messenger_send_button_text = 2131427328;
 			
-			// aapt resource value: 0x7f0b0019
-			public const int mr_button_content_description = 2131427353;
-			
 			// aapt resource value: 0x7f0b001a
-			public const int mr_cast_button_connected = 2131427354;
+			public const int mr_button_content_description = 2131427354;
 			
 			// aapt resource value: 0x7f0b001b
-			public const int mr_cast_button_connecting = 2131427355;
+			public const int mr_cast_button_connected = 2131427355;
 			
 			// aapt resource value: 0x7f0b001c
-			public const int mr_cast_button_disconnected = 2131427356;
-			
-			// aapt resource value: 0x7f0b002e
-			public const int mr_cast_dialog_title_view_placeholder = 2131427374;
+			public const int mr_cast_button_connecting = 2131427356;
 			
 			// aapt resource value: 0x7f0b001d
-			public const int mr_chooser_searching = 2131427357;
-			
-			// aapt resource value: 0x7f0b001e
-			public const int mr_chooser_title = 2131427358;
-			
-			// aapt resource value: 0x7f0b001f
-			public const int mr_controller_album_art = 2131427359;
-			
-			// aapt resource value: 0x7f0b0020
-			public const int mr_controller_casting_screen = 2131427360;
-			
-			// aapt resource value: 0x7f0b0021
-			public const int mr_controller_close_description = 2131427361;
-			
-			// aapt resource value: 0x7f0b0022
-			public const int mr_controller_collapse_group = 2131427362;
-			
-			// aapt resource value: 0x7f0b0023
-			public const int mr_controller_disconnect = 2131427363;
-			
-			// aapt resource value: 0x7f0b0024
-			public const int mr_controller_expand_group = 2131427364;
-			
-			// aapt resource value: 0x7f0b0025
-			public const int mr_controller_no_info_available = 2131427365;
-			
-			// aapt resource value: 0x7f0b0026
-			public const int mr_controller_no_media_selected = 2131427366;
-			
-			// aapt resource value: 0x7f0b0027
-			public const int mr_controller_pause = 2131427367;
-			
-			// aapt resource value: 0x7f0b0028
-			public const int mr_controller_play = 2131427368;
-			
-			// aapt resource value: 0x7f0b0029
-			public const int mr_controller_stop = 2131427369;
-			
-			// aapt resource value: 0x7f0b002a
-			public const int mr_controller_stop_casting = 2131427370;
-			
-			// aapt resource value: 0x7f0b002b
-			public const int mr_controller_volume_slider = 2131427371;
+			public const int mr_cast_button_disconnected = 2131427357;
 			
 			// aapt resource value: 0x7f0b002f
-			public const int mr_dialog_device_header = 2131427375;
+			public const int mr_cast_dialog_title_view_placeholder = 2131427375;
 			
-			// aapt resource value: 0x7f0b0030
-			public const int mr_dialog_route_header = 2131427376;
+			// aapt resource value: 0x7f0b001e
+			public const int mr_chooser_searching = 2131427358;
+			
+			// aapt resource value: 0x7f0b001f
+			public const int mr_chooser_title = 2131427359;
+			
+			// aapt resource value: 0x7f0b0020
+			public const int mr_controller_album_art = 2131427360;
+			
+			// aapt resource value: 0x7f0b0021
+			public const int mr_controller_casting_screen = 2131427361;
+			
+			// aapt resource value: 0x7f0b0022
+			public const int mr_controller_close_description = 2131427362;
+			
+			// aapt resource value: 0x7f0b0023
+			public const int mr_controller_collapse_group = 2131427363;
+			
+			// aapt resource value: 0x7f0b0024
+			public const int mr_controller_disconnect = 2131427364;
+			
+			// aapt resource value: 0x7f0b0025
+			public const int mr_controller_expand_group = 2131427365;
+			
+			// aapt resource value: 0x7f0b0026
+			public const int mr_controller_no_info_available = 2131427366;
+			
+			// aapt resource value: 0x7f0b0027
+			public const int mr_controller_no_media_selected = 2131427367;
+			
+			// aapt resource value: 0x7f0b0028
+			public const int mr_controller_pause = 2131427368;
+			
+			// aapt resource value: 0x7f0b0029
+			public const int mr_controller_play = 2131427369;
+			
+			// aapt resource value: 0x7f0b002a
+			public const int mr_controller_stop = 2131427370;
+			
+			// aapt resource value: 0x7f0b002b
+			public const int mr_controller_stop_casting = 2131427371;
 			
 			// aapt resource value: 0x7f0b002c
-			public const int mr_system_route_name = 2131427372;
+			public const int mr_controller_volume_slider = 2131427372;
+			
+			// aapt resource value: 0x7f0b0030
+			public const int mr_dialog_device_header = 2131427376;
+			
+			// aapt resource value: 0x7f0b0031
+			public const int mr_dialog_route_header = 2131427377;
 			
 			// aapt resource value: 0x7f0b002d
-			public const int mr_user_route_category_name = 2131427373;
+			public const int mr_system_route_name = 2131427373;
 			
-			// aapt resource value: 0x7f0b0060
-			public const int mtrl_chip_close_icon_content_description = 2131427424;
+			// aapt resource value: 0x7f0b002e
+			public const int mr_user_route_category_name = 2131427374;
 			
 			// aapt resource value: 0x7f0b0061
-			public const int password_toggle_content_description = 2131427425;
+			public const int mtrl_chip_close_icon_content_description = 2131427425;
 			
 			// aapt resource value: 0x7f0b0062
-			public const int path_password_eye = 2131427426;
+			public const int password_toggle_content_description = 2131427426;
 			
 			// aapt resource value: 0x7f0b0063
-			public const int path_password_eye_mask_strike_through = 2131427427;
+			public const int path_password_eye = 2131427427;
 			
 			// aapt resource value: 0x7f0b0064
-			public const int path_password_eye_mask_visible = 2131427428;
+			public const int path_password_eye_mask_strike_through = 2131427428;
 			
 			// aapt resource value: 0x7f0b0065
-			public const int path_password_strike_through = 2131427429;
-			
-			// aapt resource value: 0x7f0b004c
-			public const int search_menu_title = 2131427404;
+			public const int path_password_eye_mask_visible = 2131427429;
 			
 			// aapt resource value: 0x7f0b0066
-			public const int status_bar_notification_info_overflow = 2131427430;
+			public const int path_password_strike_through = 2131427430;
 			
-			// aapt resource value: 0x7f0b0018
-			public const int title_activity_webview = 2131427352;
+			// aapt resource value: 0x7f0b004d
+			public const int search_menu_title = 2131427405;
+			
+			// aapt resource value: 0x7f0b0067
+			public const int status_bar_notification_info_overflow = 2131427431;
+			
+			// aapt resource value: 0x7f0b0019
+			public const int title_activity_webview = 2131427353;
 			
 			static String()
 			{

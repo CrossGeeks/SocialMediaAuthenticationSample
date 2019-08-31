@@ -143,8 +143,6 @@ namespace SocialMediaAuthentication.ViewModels
 
                 userDataDelegate = async (object sender, FBEventArgs<string> e) =>
                 {
-                    if (e == null) return;
-
                     switch (e.Status)
                     {
                         case FacebookActionStatus.Completed:
@@ -160,6 +158,13 @@ namespace SocialMediaAuthentication.ViewModels
                             await App.Current.MainPage.Navigation.PushModalAsync(new HomePage(socialLoginData));
                             break;
                         case FacebookActionStatus.Canceled:
+                            await App.Current.MainPage.DisplayAlert("Facebook Auth", "Canceled", "Ok");
+                            break;
+                        case FacebookActionStatus.Error:
+                            await App.Current.MainPage.DisplayAlert("Facebook Auth", "Error", "Ok");
+                            break;
+                        case FacebookActionStatus.Unauthorized:
+                            await App.Current.MainPage.DisplayAlert("Facebook Auth", "Unauthorized", "Ok");
                             break;
                     }
 
