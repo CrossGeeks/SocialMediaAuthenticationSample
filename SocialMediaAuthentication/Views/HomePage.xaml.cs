@@ -14,7 +14,7 @@ namespace SocialMediaAuthentication.Views
             InitializeComponent();
         }
 
-        void OnLogout(object sender, System.EventArgs e)
+       async void OnLogout(object sender, System.EventArgs e)
         {
            if(BindingContext is NetworkAuthData data)
            {
@@ -25,7 +25,7 @@ namespace SocialMediaAuthentication.Views
                         break;
                 }
 
-                Navigation.PopModalAsync();
+               await Navigation.PopModalAsync();
             }
         }
     }
