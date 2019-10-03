@@ -6,7 +6,6 @@ using System.Windows.Input;
 using Acr.UserDialogs;
 using Newtonsoft.Json;
 using Plugin.FacebookClient;
-using Plugin.FacebookClient.Abstractions;
 using Refit;
 using SocialMediaAuthentication.Models;
 using SocialMediaAuthentication.Services;
