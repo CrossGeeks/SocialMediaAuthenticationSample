@@ -80,6 +80,9 @@
     <PackageReference Include="Plugin.GoogleClient">
       <Version>1.1.1</Version>
     </PackageReference>
+    <PackageReference Include="Xamarin.GooglePlayServices.Auth">
+      <Version>71.1600.0</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -119,27 +122,7 @@
     <AndroidResource Include="Resources\drawable-mdpi\ic_fb.png" />
     <AndroidResource Include="Resources\drawable-ldpi\ic_fb.png" />
     <AndroidResource Include="Resources\drawable\ic_ig.png" />
-    <AndroidResource Include="Resources\drawable-xxxhdpi\google_icon.png">
-      <SubType></SubType>
-      <Generator></Generator>
-    </AndroidResource>
-    <AndroidResource Include="Resources\drawable-xxhdpi\google_icon.png">
-      <SubType></SubType>
-      <Generator></Generator>
-    </AndroidResource>
-    <AndroidResource Include="Resources\drawable-xhdpi\google_icon.png">
-      <SubType></SubType>
-      <Generator></Generator>
-    </AndroidResource>
-    <AndroidResource Include="Resources\drawable-hdpi\google_icon.png">
-      <SubType></SubType>
-      <Generator></Generator>
-    </AndroidResource>
-    <AndroidResource Include="Resources\drawable-mdpi\google_icon.png">
-      <SubType></SubType>
-      <Generator></Generator>
-    </AndroidResource>
-    <AndroidResource Include="Resources\drawable-ldpi\google_icon.png">
+    <AndroidResource Include="Resources\drawable\ic_google.png">
       <SubType></SubType>
       <Generator></Generator>
     </AndroidResource>
