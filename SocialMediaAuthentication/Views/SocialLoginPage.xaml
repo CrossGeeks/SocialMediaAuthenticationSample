@@ -15,9 +15,9 @@
                             Command="{Binding Path=BindingContext.OnLoginCommand, Source={x:Reference mainLayout}}"
                             CommandParameter="{Binding .}"     
                             HeightRequest="45"
-                            TextColor="White"
+                            TextColor="{Binding Foreground}"
                             BackgroundColor="{Binding Background}"
-                            WidthRequest="250"
+                            WidthRequest="280"
                             HorizontalOptions="CenterAndExpand"
                             VerticalOptions="FillAndExpand"/>
                     </DataTemplate>

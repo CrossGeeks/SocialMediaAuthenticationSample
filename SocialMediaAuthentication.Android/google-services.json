@@ -1,0 +1,55 @@
+{
+  "project_info": {
+    "project_number": "60015114581",
+    "firebase_url": "https://social-media-authenticat-1ba2a.firebaseio.com",
+    "project_id": "social-media-authenticat-1ba2a",
+    "storage_bucket": "social-media-authenticat-1ba2a.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:60015114581:android:a881e9a7375530afaf17dc",
+        "android_client_info": {
+          "package_name": "com.crossgeeks.socialmediaauthentication"
+        }
+      },
+      "oauth_client": [
+        {
+          "client_id": "60015114581-5iddc0evthbbkgl1v4kq89a25pjkmm7k.apps.googleusercontent.com",
+          "client_type": 1,
+          "android_info": {
+            "package_name": "com.crossgeeks.socialmediaauthentication",
+            "certificate_hash": "41efd64dbc35e0013a82f7ae57af00af42651d85"
+          }
+        },
+        {
+          "client_id": "60015114581-nj9q2ekimf9paie9ig0cliulo9vj8mfk.apps.googleusercontent.com",
+          "client_type": 3
+        }
+      ],
+      "api_key": [
+        {
+          "current_key": "AIzaSyBBWJqcO9flWTi90zlrq9pJOUfa2RO_mC4"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": [
+            {
+              "client_id": "60015114581-nj9q2ekimf9paie9ig0cliulo9vj8mfk.apps.googleusercontent.com",
+              "client_type": 3
+            },
+            {
+              "client_id": "60015114581-8t3d8n4r2s38fvltdqrnf8ip7thqcntu.apps.googleusercontent.com",
+              "client_type": 2,
+              "ios_info": {
+                "bundle_id": "com.crossgeeks.SocialMediaAuthentication"
+              }
+            }
+          ]
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}

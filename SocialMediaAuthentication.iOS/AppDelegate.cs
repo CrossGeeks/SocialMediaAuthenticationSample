@@ -4,6 +4,7 @@ using System.Linq;
 
 using Foundation;
 using Plugin.FacebookClient;
+using Plugin.GoogleClient;
 using SocialMediaAuthentication.iOS.Services;
 using UIKit;
 
@@ -20,7 +21,7 @@ namespace SocialMediaAuthentication.iOS
             global::Xamarin.Forms.Forms.Init();
             LoadApplication(new App(new OAuth2Service()));
             FacebookClientManager.Initialize(app, options);
-
+            GoogleClientManager.Initialize();
             return base.FinishedLaunching(app, options);
         }
 
@@ -32,6 +33,7 @@ namespace SocialMediaAuthentication.iOS
 
         public override bool OpenUrl(UIApplication app, NSUrl url, NSDictionary options)
         {
+            GoogleClientManager.OnOpenUrl(app, url, options);
             return FacebookClientManager.OpenUrl(app, url, options);
         }
 

@@ -77,6 +77,9 @@
     <PackageReference Include="Plugin.FacebookClient">
       <Version>2.1.14</Version>
     </PackageReference>
+    <PackageReference Include="Plugin.GoogleClient">
+      <Version>1.1.1</Version>
+    </PackageReference>
   </ItemGroup>
   <ItemGroup>
     <Compile Include="MainActivity.cs" />
@@ -89,6 +92,7 @@
     <None Include="Resources\AboutResources.txt" />
     <None Include="Assets\AboutAssets.txt" />
     <None Include="Properties\AndroidManifest.xml" />
+    <GoogleServicesJson Include="google-services.json" />
   </ItemGroup>
   <ItemGroup>
     <AndroidResource Include="Resources\layout\Tabbar.axml" />
@@ -115,6 +119,30 @@
     <AndroidResource Include="Resources\drawable-mdpi\ic_fb.png" />
     <AndroidResource Include="Resources\drawable-ldpi\ic_fb.png" />
     <AndroidResource Include="Resources\drawable\ic_ig.png" />
+    <AndroidResource Include="Resources\drawable-xxxhdpi\google_icon.png">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-xxhdpi\google_icon.png">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-xhdpi\google_icon.png">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-hdpi\google_icon.png">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-mdpi\google_icon.png">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
+    <AndroidResource Include="Resources\drawable-ldpi\google_icon.png">
+      <SubType></SubType>
+      <Generator></Generator>
+    </AndroidResource>
   </ItemGroup>
   <ItemGroup>
     <Folder Include="Resources\drawable\" />

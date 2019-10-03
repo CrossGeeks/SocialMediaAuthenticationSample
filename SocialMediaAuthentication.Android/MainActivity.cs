@@ -12,6 +12,7 @@ using Java.Security;
 using System.Buffers.Text;
 using Acr.UserDialogs;
 using SocialMediaAuthentication.Droid.Services;
+using Plugin.GoogleClient;
 
 namespace SocialMediaAuthentication.Droid
 {
@@ -24,12 +25,12 @@ namespace SocialMediaAuthentication.Droid
             ToolbarResource = Resource.Layout.Toolbar;
 
             base.OnCreate(savedInstanceState);
+            
 
-           
             Xamarin.Essentials.Platform.Init(this, savedInstanceState);
             global::Xamarin.Forms.Forms.Init(this, savedInstanceState);
-
             FacebookClientManager.Initialize(this);
+            GoogleClientManager.Initialize(this);
             UserDialogs.Init(() => this);
             LoadApplication(new App(new OAuth2Service()));
             #if DEBUG
@@ -49,6 +50,7 @@ namespace SocialMediaAuthentication.Droid
         {
             base.OnActivityResult(requestCode, resultCode, intent);
             FacebookClientManager.OnActivityResult(requestCode, resultCode, intent);
+            GoogleClientManager.OnAuthCompleted(requestCode, resultCode, intent);
         }
 
         public static void PrintHashKey(Context pContext)

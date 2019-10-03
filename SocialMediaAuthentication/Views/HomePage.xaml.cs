@@ -1,6 +1,7 @@
 ﻿using System;
 using System.Collections.Generic;
 using Plugin.FacebookClient;
+using Plugin.GoogleClient;
 using SocialMediaAuthentication.Models;
 using Xamarin.Forms;
 
@@ -22,6 +23,9 @@ namespace SocialMediaAuthentication.Views
                 {
                     case "Facebook":
                         CrossFacebookClient.Current.Logout();
+                        break;
+                    case "Google":
+                        CrossGoogleClient.Current.Logout();
                         break;
                 }
 

@@ -1,3 +1,4 @@
+
 # Social Media Authentication
 
 ## Facebook 
@@ -14,3 +15,8 @@ Blog post: [Facebook](http://www.xamboy.com/2019/07/23/social-media-authenticati
 </p>
 
 Blog post: [Instagram](http://www.xamboy.com/2019/08/02/social-media-authentication-instagram-login-in-xamarin-forms/)
+
+## Google 
+<p align="center">
+<img  width="400" src="Screenshots/Google.png"/>
+</p>

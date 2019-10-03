@@ -22,9 +22,9 @@
                            WidthRequest="120" HeightRequest="120"
                            Margin="24"
                            Source="{Binding Picture}"/>
-             <Label Grid.Row="2" TextColor="White" Text="{Binding Id}" HorizontalOptions="CenterAndExpand" />
-             <Label Grid.Row="3" TextColor="White" Text="{Binding Name}" HorizontalOptions="CenterAndExpand" />
-             <Button Grid.Row="4" FontAttributes="Bold" VerticalOptions="EndAndExpand" Text="Logout" TextColor="White" Clicked="OnLogout" HorizontalOptions="CenterAndExpand" />
+             <Label Grid.Row="2" TextColor="{Binding Foreground}" Text="{Binding Id}" HorizontalOptions="CenterAndExpand" />
+             <Label Grid.Row="3" TextColor="{Binding Foreground}" Text="{Binding Name}" HorizontalOptions="CenterAndExpand" />
+             <Button Grid.Row="4" FontAttributes="Bold" VerticalOptions="EndAndExpand" Text="Logout" TextColor="{Binding Foreground}" Clicked="OnLogout" HorizontalOptions="CenterAndExpand" />
         </Grid>
        
     </ContentPage.Content>

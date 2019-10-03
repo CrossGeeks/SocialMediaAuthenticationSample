@@ -27,6 +27,8 @@
     <MtouchArch>x86_64</MtouchArch>
     <MtouchLink>None</MtouchLink>
     <MtouchDebug>true</MtouchDebug>
+    <CodesignKey>iPhone Developer</CodesignKey>
+    <CodesignEntitlements>Entitlements.plist</CodesignEntitlements>
   </PropertyGroup>
   <PropertyGroup Condition=" '$(Configuration)|$(Platform)' == 'Release|iPhoneSimulator' ">
     <DebugType>none</DebugType>
@@ -115,6 +117,12 @@
     <ImageAsset Include="Assets.xcassets\AppIcon.appiconset\Icon20.png">
       <Visible>false</Visible>
     </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\ic_google.imageset\Contents.json">
+      <Visible>False</Visible>
+    </ImageAsset>
+    <ImageAsset Include="Assets.xcassets\ic_google.imageset\google_icon.png" />
+    <ImageAsset Include="Assets.xcassets\ic_google.imageset\google_icon%402x.png" />
+    <ImageAsset Include="Assets.xcassets\ic_google.imageset\google_icon%403x.png" />
   </ItemGroup>
   <ItemGroup>
     <Reference Include="System" />
@@ -133,6 +141,12 @@
     <PackageReference Include="Plugin.FacebookClient">
       <Version>2.1.14</Version>
     </PackageReference>
+    <PackageReference Include="Plugin.GoogleClient">
+      <Version>1.1.1</Version>
+    </PackageReference>
+    <PackageReference Include="Xamarin.Google.iOS.SignIn">
+      <Version>4.4.0</Version>
+    </PackageReference>
   </ItemGroup>
   <Import Project="$(MSBuildExtensionsPath)\Xamarin\iOS\Xamarin.iOS.CSharp.targets" />
   <ItemGroup>
@@ -144,11 +158,14 @@
   <ItemGroup>
     <Folder Include="Resources\" />
     <Folder Include="Services\" />
+    <Folder Include="Assets.xcassets\ic_google.imageset\" />
+    <Folder Include="Assets.xcassets\ic_google.imageset\" />
   </ItemGroup>
   <ItemGroup>
     <BundleResource Include="Resources\ic_fb%403x.png" />
     <BundleResource Include="Resources\ic_fb%402x.png" />
     <BundleResource Include="Resources\ic_fb.png" />
     <BundleResource Include="Resources\ic_ig.png" />
+    <BundleResource Include="GoogleService-Info.plist" />
   </ItemGroup>
 </Project>

@@ -8,5 +8,7 @@ namespace SocialMediaAuthentication.Models
         public string Icon { get; set; }
 
         public string Background { get; set; }
+
+        public string Foreground { get; set; }
     }
 }

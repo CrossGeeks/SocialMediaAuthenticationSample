@@ -55,6 +55,16 @@
 				<string>fb1212486175604889</string>
 			</array>
 		</dict>
+		<dict>
+			<key>CFBundleURLName</key>
+			<string>google</string>
+			<key>CFBundleURLSchemes</key>
+			<array>
+				<string>com.googleusercontent.apps.60015114581-8t3d8n4r2s38fvltdqrnf8ip7thqcntu</string>
+			</array>
+			<key>CFBundleTypeRole</key>
+			<string>Editor</string>
+		</dict>
 	</array>
 	<key>FacebookAppID</key>
 	<string>1212486175604889</string>
