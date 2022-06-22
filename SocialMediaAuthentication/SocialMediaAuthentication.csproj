@@ -14,7 +14,7 @@
     <PackageReference Include="Xamarin.Forms" Version="4.0.0.425677" />
     <PackageReference Include="Xamarin.Essentials" Version="1.1.0" />
     <PackageReference Include="Plugin.FacebookClient" Version="2.1.14" />
-    <PackageReference Include="Newtonsoft.Json" Version="12.0.2" />
+    <PackageReference Include="Newtonsoft.Json" Version="13.0.1" />
     <PackageReference Include="Refit" Version="4.7.9" />
     <PackageReference Include="Acr.UserDialogs" Version="7.0.4" />
     <PackageReference Include="Plugin.GoogleClient" Version="1.1.1" />
